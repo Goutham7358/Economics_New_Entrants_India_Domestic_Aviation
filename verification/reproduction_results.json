@@ -1,0 +1,191 @@
+{
+  "passed": true,
+  "offline_input_files_hashed": 311,
+  "original_schedule_pdfs_hashed": 228,
+  "major_route_rebuild": [
+    {
+      "snapshot": "top20_routes.csv",
+      "rows": 20,
+      "cells_compared": 100,
+      "passed": true,
+      "numeric_tolerance": "0.00000002"
+    },
+    {
+      "snapshot": "top20_monthly_route_hhi.csv",
+      "rows": 1114,
+      "cells_compared": 21166,
+      "passed": true,
+      "numeric_tolerance": "0.00000002"
+    },
+    {
+      "snapshot": "top20_monthly_airline_shares.csv",
+      "rows": 5519,
+      "cells_compared": 55190,
+      "passed": true,
+      "numeric_tolerance": "0.00000002"
+    },
+    {
+      "snapshot": "top20_monthly_coverage.csv",
+      "rows": 2780,
+      "cells_compared": 16680,
+      "passed": true,
+      "numeric_tolerance": "0.00000002"
+    }
+  ],
+  "source_row_subsets": [
+    {
+      "file": "regional_schedule_rows.csv",
+      "rows": 31048,
+      "all_present_in_full_extraction": true
+    },
+    {
+      "file": "top20_source_rows.csv",
+      "rows": 33653,
+      "all_present_in_full_extraction": true
+    },
+    {
+      "file": "worked_example_source_rows.csv",
+      "rows": 373,
+      "all_present_in_full_extraction": true
+    }
+  ],
+  "local_document_links_checked": 87,
+  "case_study_claims": [
+    {
+      "claim": "Vistara revenue growth",
+      "calculated_display": "24.87%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara loss change",
+      "calculated_display": "-58.29%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara net margin change",
+      "calculated_display": "7.57",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air revenue growth",
+      "calculated_display": "34.59%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air loss change",
+      "calculated_display": "+36.93%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air net margin change",
+      "calculated_display": "0.75",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara net margin",
+      "calculated_display": "-11.36%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara net margin",
+      "calculated_display": "-3.80%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air net margin",
+      "calculated_display": "-43.28%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air net margin",
+      "calculated_display": "-44.03%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "TruJet route share MAA-SXV",
+      "calculated_display": "100.00%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "MAA-SXV HHI",
+      "calculated_display": "10,000.00",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "TruJet route share CDP-MAA",
+      "calculated_display": "100.00%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "CDP-MAA HHI",
+      "calculated_display": "10,000.00",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara route share BOM-DEL",
+      "calculated_display": "29.80%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "BOM-DEL HHI",
+      "calculated_display": "2,815.08",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air route share BOM-DEL",
+      "calculated_display": "5.64%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "BOM-DEL HHI",
+      "calculated_display": "2,815.08",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air route share DEL-PNQ",
+      "calculated_display": "8.39%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "DEL-PNQ HHI",
+      "calculated_display": "2,744.88",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "H1 route counts",
+      "calculated_display": "17 of 22",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "H1 percentage",
+      "calculated_display": "77.27%",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Vistara positive months",
+      "calculated_display": "118",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "TruJet positive months",
+      "calculated_display": "79",
+      "present_in_case_study": true
+    },
+    {
+      "claim": "Akasa Air positive months",
+      "calculated_display": "48",
+      "present_in_case_study": true
+    }
+  ],
+  "independent_financial_checks": [
+    {
+      "airline": "Vistara",
+      "growth_and_margin_recomputed": true
+    },
+    {
+      "airline": "Akasa Air",
+      "growth_and_margin_recomputed": true
+    }
+  ],
+  "scope": "Numerical results and documented inputs are reproducible. Strategic interpretations remain evidence-based arguments, not causal estimates."
+}

@@ -1,0 +1,93 @@
+{
+  "passed": true,
+  "original_schedule_pdfs_hashed": 102,
+  "original_citypair_workbooks_hashed": 3,
+  "citypair_checks": [
+    {
+      "file": "DOM CITYPAIR DATA, NOVEMBER  2019 .xlsx",
+      "month": "2019-11",
+      "route": "MAA-SXV",
+      "cells": "D221,E221",
+      "original_total": 3281,
+      "reported_total": 3281,
+      "passed": true
+    },
+    {
+      "file": "DOM CITYPAIR DATA, NOVEMBER  2019 .xlsx",
+      "month": "2019-11",
+      "route": "CDP-MAA",
+      "cells": "D205,E205",
+      "original_total": 3191,
+      "reported_total": 3191,
+      "passed": true
+    },
+    {
+      "file": "DOM CITYPAIR DATA, NOVEMBER 2023.xlsx",
+      "month": "2023-11",
+      "route": "BOM-DEL",
+      "cells": "D342,E342",
+      "original_total": 530408,
+      "reported_total": 530408,
+      "passed": true
+    },
+    {
+      "file": "DOM CITYPAIR DATA, JUNE 2026.xlsx",
+      "month": "2026-06",
+      "route": "DEL-PNQ",
+      "cells": "D361,E361",
+      "original_total": 233719,
+      "reported_total": 233719,
+      "passed": true
+    }
+  ],
+  "worked_schedule_checks": [
+    {
+      "month": "2019-11",
+      "route": "MAA-SXV",
+      "airline": "TruJet",
+      "source_reconstructed_flights": 60,
+      "route_flights": 60,
+      "share_percent": 100.0
+    },
+    {
+      "month": "2019-11",
+      "route": "CDP-MAA",
+      "airline": "TruJet",
+      "source_reconstructed_flights": 60,
+      "route_flights": 60,
+      "share_percent": 100.0
+    },
+    {
+      "month": "2023-11",
+      "route": "BOM-DEL",
+      "airline": "Vistara",
+      "source_reconstructed_flights": 951,
+      "route_flights": 3191,
+      "share_percent": 29.802569727358193
+    },
+    {
+      "month": "2023-11",
+      "route": "BOM-DEL",
+      "airline": "Akasa Air",
+      "source_reconstructed_flights": 180,
+      "route_flights": 3191,
+      "share_percent": 5.6408649326230025
+    },
+    {
+      "month": "2026-06",
+      "route": "DEL-PNQ",
+      "airline": "Akasa Air",
+      "source_reconstructed_flights": 120,
+      "route_flights": 1430,
+      "share_percent": 8.391608391608392
+    }
+  ],
+  "regional_route_hhi_and_flight_total_checks": 265,
+  "entrant_route_months": 1300,
+  "H1": {
+    "covered_routes": 22,
+    "at_least_half_share": 17,
+    "percent_of_covered_routes": 77.27272727272727
+  },
+  "scope": "Source reconstruction and arithmetic verified; schedules remain approved supply and cannot establish complete actual airline passenger shares."
+}

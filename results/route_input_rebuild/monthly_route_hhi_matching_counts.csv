@@ -1,0 +1,282 @@
+month,route,rank_2025,airport_a,airport_b,scheduled_flights_both_directions,flights_a_to_b,flights_b_to_a,airline_count,group_count,brand_frequency_hhi,group_frequency_hhi,group_cr2_pct,largest_group,counterpart_count_agreement,counterpart_absolute_count_difference,source_pdf_count,basis,counterpart_count_difference_pct
+2019-04,AMD-DEL,7,AMD,DEL,944,472,472,4,4,3357.15311692,3357.15311692,69.06779661,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,BOM-HYD,11,BOM,HYD,951,467,484,5,4,3481.21021538,3506.77409689,73.92218717,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,BOM-MAA,13,BOM,MAA,822,411,411,5,5,2711.38579573,2711.38579573,58.39416058,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,AMD-BOM,14,AMD,BOM,784,407,377,5,5,2961.13598501,2961.13598501,67.85714286,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,DEL-GAU,18,DEL,GAU,740,351,389,6,6,2341.12490869,2341.12490869,60.81081081,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,BOM-GOI,19,BOM,GOI,958,479,479,6,6,2222.31423329,2222.31423329,53.65344468,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-04,BLR-MAA,20,BLR,MAA,980,490,490,4,4,3646.39733444,3646.39733444,76.53061224,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,AMD-DEL,7,AMD,DEL,976,488,488,4,4,3357.21244289,3357.21244289,69.05737705,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,DEL-MAA,9,DEL,MAA,1116,558,558,4,4,3765.43209877,3765.43209877,72.22222222,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,BOM-CCU,10,BOM,CCU,744,372,372,5,5,3194.44444444,3194.44444444,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,BOM-HYD,11,BOM,HYD,912,447,465,3,3,4009.7914743,4009.7914743,79.60526316,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,BOM-MAA,13,BOM,MAA,744,372,372,4,4,3333.33333333,3333.33333333,66.66666667,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,AMD-BOM,14,AMD,BOM,705,368,337,4,4,3690.5387053,3690.5387053,78.0141844,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,DEL-GAU,18,DEL,GAU,768,364,404,6,6,2333.88264974,2333.88264974,60.546875,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,BOM-GOI,19,BOM,GOI,918,459,459,5,5,2523.19857984,2523.19857984,57.73420479,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-05,BLR-MAA,20,BLR,MAA,1049,511,538,5,5,3479.79509288,3479.79509288,74.5471878,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,CCU-DEL,6,CCU,DEL,1432,716,716,6,6,2687.49414812,2687.49414812,58.10055866,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,AMD-DEL,7,AMD,DEL,940,470,470,4,4,3356.72249887,3356.72249887,69.14893617,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,DEL-MAA,9,DEL,MAA,1080,540,540,4,4,3765.43209877,3765.43209877,72.22222222,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BOM-CCU,10,BOM,CCU,720,360,360,5,5,3194.44444444,3194.44444444,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BOM-HYD,11,BOM,HYD,883,433,450,3,3,4008.38026444,4008.38026444,79.61494904,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BLR-CCU,12,BLR,CCU,1162,583,579,5,5,3332.40510604,3332.40510604,71.77280551,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BOM-MAA,13,BOM,MAA,720,360,360,4,4,3333.33333333,3333.33333333,66.66666667,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,AMD-BOM,14,AMD,BOM,680,355,325,4,4,3680.79584775,3680.79584775,77.94117647,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,DEL-GAU,18,DEL,GAU,741,351,390,6,6,2338.83525382,2338.83525382,60.72874494,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BOM-GOI,19,BOM,GOI,896,448,448,5,5,2499.20280612,2499.20280612,57.58928571,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-06,BLR-MAA,20,BLR,MAA,1014,494,520,5,5,3479.06430292,3479.06430292,74.55621302,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,CCU-DEL,6,CCU,DEL,1478,739,739,6,6,2683.12333714,2683.12333714,58.05142084,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,AMD-DEL,7,AMD,DEL,976,488,488,4,4,3357.21244289,3357.21244289,69.05737705,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,DEL-MAA,9,DEL,MAA,1116,558,558,4,4,3765.43209877,3765.43209877,72.22222222,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BOM-CCU,10,BOM,CCU,744,372,372,5,5,3194.44444444,3194.44444444,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BOM-HYD,11,BOM,HYD,913,448,465,3,3,4006.54294965,4006.54294965,79.62760131,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BLR-CCU,12,BLR,CCU,1223,614,609,5,5,3192.53688335,3192.53688335,69.99182339,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BOM-MAA,13,BOM,MAA,744,372,372,4,4,3333.33333333,3333.33333333,66.66666667,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,AMD-BOM,14,AMD,BOM,705,368,337,4,4,3690.5387053,3690.5387053,78.0141844,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,DEL-GAU,18,DEL,GAU,766,363,403,6,6,2338.17805016,2338.17805016,60.70496084,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BOM-GOI,19,BOM,GOI,918,459,459,5,5,2519.78109084,2519.78109084,57.73420479,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-07,BLR-MAA,20,BLR,MAA,1040,507,533,5,5,3474.33431953,3474.33431953,74.61538462,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,CCU-DEL,6,CCU,DEL,1480,740,740,6,6,2688.16654492,2688.16654492,58.10810811,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,AMD-DEL,7,AMD,DEL,976,488,488,4,4,3357.21244289,3357.21244289,69.05737705,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,DEL-MAA,9,DEL,MAA,1116,558,558,4,4,3765.43209877,3765.43209877,72.22222222,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BOM-CCU,10,BOM,CCU,744,372,372,5,5,3194.44444444,3194.44444444,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BOM-HYD,11,BOM,HYD,911,446,465,3,3,4013.06871377,4013.06871377,79.58287596,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BLR-CCU,12,BLR,CCU,1230,617,613,5,5,3197.32963183,3197.32963183,70.08130081,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BOM-MAA,13,BOM,MAA,744,372,372,4,4,3333.33333333,3333.33333333,66.66666667,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,AMD-BOM,14,AMD,BOM,705,368,337,4,4,3690.5387053,3690.5387053,78.0141844,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,DEL-GAU,18,DEL,GAU,768,364,404,6,6,2333.88264974,2333.88264974,60.546875,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BOM-GOI,19,BOM,GOI,922,461,461,5,5,2512.92813416,2512.92813416,57.70065076,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-08,BLR-MAA,20,BLR,MAA,1049,511,538,5,5,3479.79509288,3479.79509288,74.5471878,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,CCU-DEL,6,CCU,DEL,1432,716,716,6,6,2687.49414812,2687.49414812,58.10055866,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,AMD-DEL,7,AMD,DEL,940,470,470,4,4,3356.72249887,3356.72249887,69.14893617,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,DEL-MAA,9,DEL,MAA,1080,540,540,4,4,3765.43209877,3765.43209877,72.22222222,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BOM-CCU,10,BOM,CCU,720,360,360,5,5,3194.44444444,3194.44444444,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BOM-HYD,11,BOM,HYD,883,433,450,3,3,4008.38026444,4008.38026444,79.61494904,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BLR-CCU,12,BLR,CCU,1158,581,577,5,5,3347.11446392,3347.11446392,71.84801382,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BOM-MAA,13,BOM,MAA,720,360,360,4,4,3333.33333333,3333.33333333,66.66666667,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,AMD-BOM,14,AMD,BOM,680,355,325,4,4,3680.79584775,3680.79584775,77.94117647,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,DEL-GAU,18,DEL,GAU,740,351,389,6,6,2341.12490869,2341.12490869,60.81081081,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BOM-GOI,19,BOM,GOI,894,447,447,5,5,2509.44652143,2509.44652143,57.71812081,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-09,BLR-MAA,20,BLR,MAA,1014,494,520,5,5,3479.06430292,3479.06430292,74.55621302,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,DEL-HYD,4,DEL,HYD,1693,823,870,6,6,2473.91276892,2473.91276892,56.46780862,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,DEL-PNQ,5,DEL,PNQ,1349,662,687,6,6,1919.22633299,1919.22633299,48.18383988,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,AMD-DEL,7,AMD,DEL,1085,557,528,5,5,3156.48240566,3156.48240566,64.88479263,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,DEL-MAA,9,DEL,MAA,1331,630,701,5,5,3277.11549306,3277.11549306,65.36438768,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,BOM-HYD,11,BOM,HYD,1358,694,664,5,5,3283.46069005,3283.46069005,73.4904271,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,BLR-CCU,12,BLR,CCU,1014,507,507,4,4,3476.7301176,3476.7301176,70.41420118,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,BLR-PNQ,15,BLR,PNQ,950,470,480,4,4,3284.3434903,3284.3434903,68.0,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-11,DEL-SXR,16,DEL,SXR,864,401,463,6,6,1742.96982167,1742.96982167,41.43518519,Go First / GoAir,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,DEL-HYD,4,DEL,HYD,1756,851,905,6,6,2467.66050404,2467.66050404,56.32118451,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,DEL-PNQ,5,DEL,PNQ,1403,688,715,6,6,1916.78152254,1916.78152254,48.03991447,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,AMD-DEL,7,AMD,DEL,1236,693,543,5,5,2720.73763367,2720.73763367,60.27508091,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,DEL-MAA,9,DEL,MAA,1395,651,744,5,5,3214.81481481,3214.81481481,64.44444444,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,BOM-HYD,11,BOM,HYD,1405,718,687,5,5,3287.50142475,3287.50142475,73.52313167,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,BLR-CCU,12,BLR,CCU,1042,521,521,4,4,3472.68835585,3472.68835585,70.24952015,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,BOM-MAA,13,BOM,MAA,1346,673,673,6,6,2577.99787605,2577.99787605,59.88112927,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,BLR-PNQ,15,BLR,PNQ,1012,488,524,4,4,3190.89893609,3190.89893609,66.10671937,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,DEL-SXR,16,DEL,SXR,890,414,476,6,6,1740.91655094,1740.91655094,41.23595506,Go First / GoAir,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2019-12,BOM-GOI,19,BOM,GOI,1181,560,621,6,6,2039.439015,2039.439015,51.14309907,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,DEL-HYD,4,DEL,HYD,1752,850,902,6,6,2463.24487605,2463.24487605,56.27853881,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,DEL-PNQ,5,DEL,PNQ,1401,687,714,6,6,1919.18080335,1919.18080335,48.10849393,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,AMD-DEL,7,AMD,DEL,1243,697,546,5,5,2725.07214982,2725.07214982,60.41834272,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,DEL-MAA,9,DEL,MAA,1395,651,744,5,5,3214.81481481,3214.81481481,64.44444444,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,BOM-HYD,11,BOM,HYD,1403,717,686,5,5,3282.83908476,3282.83908476,73.48538845,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,BLR-CCU,12,BLR,CCU,1046,523,523,4,4,3485.66331175,3485.66331175,70.36328872,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,BOM-MAA,13,BOM,MAA,1348,674,674,6,6,2571.3442929,2571.3442929,59.79228487,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,BLR-PNQ,15,BLR,PNQ,1011,488,523,4,4,3200.25711242,3200.25711242,66.27101879,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-01,BOM-GOI,19,BOM,GOI,1174,556,618,6,6,2042.07285043,2042.07285043,51.10732538,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,DEL-HYD,4,DEL,HYD,1640,795,845,6,6,2467.40779298,2467.40779298,56.34146341,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,DEL-PNQ,5,DEL,PNQ,1304,640,664,6,6,1917.97771839,1917.97771839,48.1595092,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,DEL-MAA,9,DEL,MAA,1305,609,696,5,5,3214.81481481,3214.81481481,64.44444444,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,BOM-HYD,11,BOM,HYD,1313,671,642,5,5,3284.12517858,3284.12517858,73.49581112,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,BLR-CCU,12,BLR,CCU,974,490,484,4,4,3502.43918893,3502.43918893,70.84188912,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,BOM-MAA,13,BOM,MAA,1258,629,629,6,6,2582.16413365,2582.16413365,59.936407,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,BLR-PNQ,15,BLR,PNQ,941,454,487,4,4,3196.91783336,3196.91783336,66.31243358,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2020-02,BOM-GOI,19,BOM,GOI,1103,522,581,6,6,2040.13779283,2040.13779283,51.13327289,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-05,BOM-MAA,13,BOM,MAA,1116,589,527,6,6,2638.88888889,2638.88888889,58.33333333,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-06,BLR-BOM,3,BLR,BOM,1886,1020,866,6,6,2316.55025758,2316.55025758,58.6426299,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-06,BOM-MAA,13,BOM,MAA,1080,570,510,6,6,2638.88888889,2638.88888889,58.33333333,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-07,BLR-BOM,3,BLR,BOM,1949,1054,895,6,6,2316.513369,2316.513369,58.64545921,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-07,BOM-MAA,13,BOM,MAA,1116,589,527,6,6,2638.88888889,2638.88888889,58.33333333,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-08,BLR-BOM,3,BLR,BOM,1948,1054,894,6,6,2316.79203437,2316.79203437,58.62422998,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-08,BOM-MAA,13,BOM,MAA,1116,589,527,6,6,2638.88888889,2638.88888889,58.33333333,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-09,BLR-BOM,3,BLR,BOM,1886,1020,866,6,6,2316.55025758,2316.55025758,58.6426299,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-09,BOM-MAA,13,BOM,MAA,1080,570,510,6,6,2638.88888889,2638.88888889,58.33333333,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-11,DEL-MAA,9,DEL,MAA,990,510,480,4,4,3278.2369146,3278.2369146,69.6969697,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-11,BOM-MAA,13,BOM,MAA,1080,540,540,5,5,2839.50617284,2839.50617284,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-12,DEL-MAA,9,DEL,MAA,1023,527,496,4,4,3278.2369146,3278.2369146,69.6969697,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-12,BOM-HYD,11,BOM,HYD,880,451,429,4,4,3648.68285124,3648.68285124,73.97727273,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2021-12,BOM-MAA,13,BOM,MAA,1116,558,558,5,5,2839.50617284,2839.50617284,66.66666667,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-01,DEL-MAA,9,DEL,MAA,1023,527,496,4,3,3278.2369146,4049.58677686,87.87878788,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-01,BOM-HYD,11,BOM,HYD,882,452,430,4,3,3640.79267383,4448.9435986,92.97052154,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-01,BOM-MAA,13,BOM,MAA,1116,558,558,5,4,2839.50617284,3333.33333333,77.77777778,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-01,BLR-PNQ,15,BLR,PNQ,630,331,299,4,4,4062.9377677,4062.9377677,81.9047619,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-02,DEL-MAA,9,DEL,MAA,924,476,448,4,3,3278.2369146,4049.58677686,87.87878788,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-02,BOM-HYD,11,BOM,HYD,796,408,388,4,3,3643.59485872,4449.63511022,92.96482412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-02,BOM-MAA,13,BOM,MAA,1008,504,504,5,4,2839.50617284,3333.33333333,77.77777778,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-02,BLR-PNQ,15,BLR,PNQ,572,300,272,4,4,4052.52090567,4052.52090567,81.81818182,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-03,BLR-PNQ,15,BLR,PNQ,662,346,316,5,4,3917.40674145,3932.92321173,80.21148036,IndiGo,True,0,9,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-04,BOM-CCU,10,BOM,CCU,930,450,480,5,4,2840.79084287,3340.27055151,77.41935484,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-04,BLR-CCU,12,BLR,CCU,1350,690,660,6,4,2760.49382716,3441.97530864,80.0,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-05,BOM-CCU,10,BOM,CCU,960,464,496,5,4,2842.68663194,3340.51649306,77.39583333,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-05,BLR-CCU,12,BLR,CCU,1395,713,682,6,4,2760.49382716,3441.97530864,80.0,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-06,BOM-CCU,10,BOM,CCU,930,450,480,5,4,2840.79084287,3340.27055151,77.41935484,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-06,BLR-CCU,12,BLR,CCU,1350,690,660,6,4,2760.49382716,3441.97530864,80.0,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-06,BLR-PNQ,15,BLR,PNQ,742,390,352,5,4,3234.57400048,3360.98982135,72.77628032,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-07,BOM-CCU,10,BOM,CCU,961,465,496,5,4,2840.79084287,3340.27055151,77.41935484,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-07,BLR-CCU,12,BLR,CCU,1395,713,682,6,4,2760.49382716,3441.97530864,80.0,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-07,BLR-PNQ,15,BLR,PNQ,765,403,362,5,4,3238.7714127,3364.84258191,72.94117647,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-11,BOM-HYD,11,BOM,HYD,900,450,450,3,2,3955.55555556,5022.22222222,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-11,AMD-BOM,14,AMD,BOM,1084,542,542,5,4,2652.12891981,2835.94994622,62.36162362,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-11,HYD-MAA,17,HYD,MAA,772,369,403,5,4,5157.58812317,5201.88461435,81.60621762,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-12,BOM-HYD,11,BOM,HYD,930,465,465,3,2,3955.55555556,5022.22222222,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-12,BLR-CCU,12,BLR,CCU,1059,465,594,5,4,4410.23075736,4547.33517554,87.81869688,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2022-12,AMD-BOM,14,AMD,BOM,1100,550,550,5,4,2587.63636364,2778.24793388,61.27272727,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-01,BOM-HYD,11,BOM,HYD,930,465,465,3,2,3955.55555556,5022.22222222,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-01,BLR-CCU,12,BLR,CCU,1058,465,593,5,4,4417.38344274,4554.74715999,87.90170132,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-01,AMD-BOM,14,AMD,BOM,1102,551,551,5,4,2586.45393131,2776.37425437,61.3430127,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-02,BOM-HYD,11,BOM,HYD,840,420,420,3,2,3955.55555556,5022.22222222,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-02,BLR-CCU,12,BLR,CCU,956,420,536,5,4,4414.3134749,4551.56597399,87.86610879,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-02,AMD-BOM,14,AMD,BOM,992,496,496,5,4,2587.14880333,2778.35587929,61.29032258,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-02,BOM-GOI,19,BOM,GOI,1312,652,660,7,5,1670.13682332,2497.76918501,57.31707317,Air India Group,True,0,7,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-04,CCU-DEL,6,CCU,DEL,1530,780,750,5,4,3048.82737409,3663.97539408,82.35294118,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-04,BOM-HYD,11,BOM,HYD,1020,510,510,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-04,BLR-PNQ,15,BLR,PNQ,1020,510,510,6,5,2227.50865052,2631.19953864,65.19607843,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-04,HYD-MAA,17,HYD,MAA,694,347,347,3,3,6312.56799741,6312.56799741,91.35446686,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-05,CCU-DEL,6,CCU,DEL,1523,777,746,5,4,3268.96106925,3931.85426869,85.48916612,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-05,BOM-HYD,11,BOM,HYD,1054,527,527,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-05,BLR-PNQ,15,BLR,PNQ,938,469,469,6,5,2624.60163393,3137.60166575,73.13432836,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-05,HYD-MAA,17,HYD,MAA,718,359,359,3,3,6300.61839992,6300.61839992,91.36490251,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-06,CCU-DEL,6,CCU,DEL,1470,750,720,4,3,3286.13077884,3952.51978342,85.71428571,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-06,BOM-HYD,11,BOM,HYD,1020,510,510,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-06,BLR-PNQ,15,BLR,PNQ,900,450,450,5,4,2670.81481481,3192.2962963,73.77777778,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-06,HYD-MAA,17,HYD,MAA,694,347,347,3,3,6312.56799741,6312.56799741,91.35446686,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-06,DEL-GAU,18,DEL,GAU,767,369,398,5,3,2880.64199739,4379.90511466,92.17731421,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-07,CCU-DEL,6,CCU,DEL,1519,775,744,4,3,3286.13077884,3952.51978342,85.71428571,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-07,BOM-HYD,11,BOM,HYD,1054,527,527,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-07,BLR-PNQ,15,BLR,PNQ,930,465,465,5,4,2681.30419702,3200.30061279,73.87096774,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-07,HYD-MAA,17,HYD,MAA,718,359,359,3,3,6300.61839992,6300.61839992,91.36490251,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-07,DEL-GAU,18,DEL,GAU,792,380,412,5,3,2888.00249974,4376.56234058,92.17171717,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-08,CCU-DEL,6,CCU,DEL,1519,775,744,4,3,3286.13077884,3952.51978342,85.71428571,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-08,BOM-HYD,11,BOM,HYD,1054,527,527,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-08,BLR-PNQ,15,BLR,PNQ,930,465,465,5,4,2669.21031333,3191.07411261,73.76344086,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-08,HYD-MAA,17,HYD,MAA,716,358,358,3,3,6328.29811804,6328.29811804,91.34078212,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-08,DEL-GAU,18,DEL,GAU,784,381,403,5,3,2858.44439817,4387.62494794,92.09183673,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-09,CCU-DEL,6,CCU,DEL,1470,750,720,4,3,3286.13077884,3952.51978342,85.71428571,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-09,BOM-HYD,11,BOM,HYD,1020,510,510,4,3,3217.99307958,4048.44290657,88.23529412,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-09,BLR-PNQ,15,BLR,PNQ,898,449,449,5,4,2676.99564982,3197.82639967,73.83073497,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-09,HYD-MAA,17,HYD,MAA,694,347,347,3,3,6312.56799741,6312.56799741,91.35446686,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-09,DEL-GAU,18,DEL,GAU,759,369,390,5,3,2857.25444859,4388.28914684,92.09486166,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-10,BOM-HYD,11,BOM,HYD,1070,533,537,5,4,3266.39881212,4091.79841034,88.97196262,IndiGo,True,0,8,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-11,CCU-DEL,6,CCU,DEL,1380,720,660,4,3,3431.00189036,4281.66351607,91.30434783,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-11,BOM-CCU,10,BOM,CCU,1020,480,540,5,4,3062.28373702,3788.92733564,85.29411765,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-11,BOM-HYD,11,BOM,HYD,1180,560,620,4,3,3862.39586326,4646.65326056,94.91525424,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-12,CCU-DEL,6,CCU,DEL,1426,744,682,4,3,3431.00189036,4281.66351607,91.30434783,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-12,BOM-CCU,10,BOM,CCU,1054,496,558,5,4,3062.28373702,3788.92733564,85.29411765,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-12,BOM-HYD,11,BOM,HYD,1224,581,643,4,3,3862.36330044,4647.41125208,94.93464052,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2023-12,BLR-CCU,12,BLR,CCU,1116,558,558,4,4,4382.71604938,4382.71604938,83.33333333,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,CCU-DEL,6,CCU,DEL,1426,744,682,4,3,3431.00189036,4281.66351607,91.30434783,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,AMD-DEL,7,AMD,DEL,1134,611,523,5,4,2878.9320941,3823.90999381,86.33156966,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,BOM-CCU,10,BOM,CCU,1054,496,558,5,4,3062.28373702,3788.92733564,85.29411765,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,BOM-HYD,11,BOM,HYD,1224,581,643,4,3,3862.36330044,4647.41125208,94.93464052,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,BLR-CCU,12,BLR,CCU,1116,558,558,4,4,4382.71604938,4382.71604938,83.33333333,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-01,BLR-PNQ,15,BLR,PNQ,961,527,434,4,3,3530.607317,3673.6035239,74.60978148,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,CCU-DEL,6,CCU,DEL,1334,696,638,4,3,3431.00189036,4281.66351607,91.30434783,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,AMD-DEL,7,AMD,DEL,1061,572,489,5,4,2884.16934569,3823.9403902,86.3336475,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,BOM-CCU,10,BOM,CCU,986,464,522,5,4,3062.28373702,3788.92733564,85.29411765,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,BOM-HYD,11,BOM,HYD,1140,541,599,4,3,3862.40381656,4646.53739612,94.9122807,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,BLR-CCU,12,BLR,CCU,1044,522,522,4,4,4382.71604938,4382.71604938,83.33333333,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-02,BLR-PNQ,15,BLR,PNQ,899,493,406,4,3,3530.84195639,3673.65296504,74.63848721,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-11,DEL-HYD,4,DEL,HYD,1720,845,875,5,4,3516.299351,4079.90805841,89.53488372,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-11,DEL-MAA,9,DEL,MAA,1207,570,637,4,3,3995.09489316,4549.60671971,95.02899751,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-11,HYD-MAA,17,HYD,MAA,901,446,455,5,4,5461.30147659,5613.55553886,90.45504994,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-11,DEL-GAU,18,DEL,GAU,806,403,403,5,3,2860.98676797,4502.76770376,92.55583127,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-11,BLR-MAA,20,BLR,MAA,838,419,419,3,2,4808.64201047,5416.97757475,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,DEL-HYD,4,DEL,HYD,1806,872,934,4,4,4086.53203484,4086.53203484,89.70099668,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,BLR-HYD,8,BLR,HYD,1457,684,773,5,4,3481.03421393,4332.39010405,92.31297186,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,DEL-MAA,9,DEL,MAA,1326,619,707,4,3,4481.78784218,4591.42933191,95.32428356,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,HYD-MAA,17,HYD,MAA,937,469,468,5,4,5375.82762034,5525.53677863,89.64781217,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,DEL-GAU,18,DEL,GAU,832,416,416,4,3,3041.58769416,4500.62407544,92.54807692,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2024-12,BLR-MAA,20,BLR,MAA,868,434,434,3,2,4795.91836735,5408.16326531,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-01,DEL-HYD,4,DEL,HYD,1806,872,934,4,4,4086.53203484,4086.53203484,89.70099668,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-01,DEL-PNQ,5,DEL,PNQ,1483,759,724,5,4,3083.52835848,4045.96667378,87.99730276,Air India Group,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-01,DEL-MAA,9,DEL,MAA,1343,620,723,4,3,4394.16427476,4589.41290683,95.38346984,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-01,HYD-MAA,17,HYD,MAA,948,478,470,5,4,5295.87049796,5442.12554968,88.8185654,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-01,BLR-MAA,20,BLR,MAA,886,435,451,3,2,4665.17026838,5336.94439207,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,DEL-HYD,4,DEL,HYD,1632,788,844,4,4,4086.76951173,4086.76951173,89.70588235,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,DEL-PNQ,5,DEL,PNQ,1336,684,652,5,4,3083.29448887,4047.11535014,88.0239521,Air India Group,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,BLR-HYD,8,BLR,HYD,1336,612,724,5,4,3480.04589623,4383.62795367,93.11377246,IndiGo,True,0,6,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,DEL-MAA,9,DEL,MAA,1188,548,640,4,3,4368.37510912,4571.5289823,95.28619529,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,HYD-MAA,17,HYD,MAA,856,432,424,5,4,5287.3613416,5434.09904795,88.78504673,IndiGo,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,DEL-GAU,18,DEL,GAU,766,376,390,4,3,3053.87588708,4540.83128251,92.68929504,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-02,BLR-MAA,20,BLR,MAA,812,392,420,3,2,4577.88347206,5291.31985731,100.0,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-04,BOM-GOI,19,BOM,GOI,802,386,416,3,2,3850.78451005,5052.26957544,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-05,BOM-GOI,19,BOM,GOI,827,398,429,3,2,3850.12186938,5050.36341492,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-06,BOM-GOI,19,BOM,GOI,802,386,416,3,2,3850.78451005,5052.26957544,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-07,BOM-GOI,19,BOM,GOI,832,398,434,4,3,3804.3465699,4990.20548262,99.39903846,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-08,BOM-GOI,19,BOM,GOI,856,399,457,4,3,3621.74098175,4748.80448074,96.84579439,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-09,BOM-GOI,19,BOM,GOI,828,386,442,4,3,3622.60496161,4749.8191323,96.85990338,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-11,CCU-DEL,6,CCU,DEL,1530,780,750,4,4,3679.35409458,3679.35409458,84.31372549,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-11,DEL-MAA,9,DEL,MAA,1170,570,600,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-11,BOM-CCU,10,BOM,CCU,1136,544,592,4,4,3327.63526582,3327.63526582,78.08098592,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-11,BOM-HYD,11,BOM,HYD,1080,540,540,2,2,5061.72839506,5061.72839506,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-12,CCU-DEL,6,CCU,DEL,1581,806,775,4,4,3679.35409458,3679.35409458,84.31372549,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-12,DEL-MAA,9,DEL,MAA,1209,589,620,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-12,BOM-HYD,11,BOM,HYD,1116,558,558,2,2,5061.72839506,5061.72839506,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2025-12,BLR-PNQ,15,BLR,PNQ,810,403,407,3,3,3948.36153025,3948.36153025,77.03703704,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-01,CCU-DEL,6,CCU,DEL,1580,805,775,4,4,3678.80147412,3678.80147412,84.30379747,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-01,DEL-MAA,9,DEL,MAA,1209,589,620,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-01,BOM-CCU,10,BOM,CCU,1232,594,638,4,4,3170.26216478,3170.26216478,74.43181818,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-01,BOM-HYD,11,BOM,HYD,1116,558,558,2,2,5061.72839506,5061.72839506,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-01,BLR-PNQ,15,BLR,PNQ,810,403,407,3,3,3948.51394604,3948.51394604,77.16049383,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-02,CCU-DEL,6,CCU,DEL,1400,700,700,4,4,3664.0,3664.0,84.0,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-02,DEL-MAA,9,DEL,MAA,1092,532,560,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-02,BOM-CCU,10,BOM,CCU,1112,536,576,4,4,3171.41969877,3171.41969877,74.46043165,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-02,BOM-HYD,11,BOM,HYD,1008,504,504,2,2,5061.72839506,5061.72839506,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-02,BLR-PNQ,15,BLR,PNQ,732,364,368,3,3,3946.66905551,3946.66905551,77.04918033,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,BLR-BOM,3,BLR,BOM,1906,970,936,4,4,3639.87804569,3639.87804569,82.79118573,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,DEL-HYD,4,DEL,HYD,1714,870,844,4,4,4184.2115654,4184.2115654,91.01516919,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,DEL-PNQ,5,DEL,PNQ,1430,730,700,5,4,2744.87750012,3418.86644824,79.86013986,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,CCU-DEL,6,CCU,DEL,1560,780,780,4,4,3727.81065089,3727.81065089,84.61538462,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,AMD-DEL,7,AMD,DEL,1140,570,570,4,4,4451.70821791,4451.70821791,94.03508772,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,BLR-HYD,8,BLR,HYD,1030,515,515,3,3,4661.13677067,4661.13677067,93.2038835,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,DEL-MAA,9,DEL,MAA,1170,570,600,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,BOM-CCU,10,BOM,CCU,1020,510,510,4,4,3633.21799308,3633.21799308,82.35294118,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,DEL-GAU,18,DEL,GAU,865,420,445,4,3,3235.99184737,4659.36048648,93.06358382,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-04,BOM-GOI,19,BOM,GOI,741,355,386,3,2,3777.96718517,5181.03886312,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BLR-BOM,3,BLR,BOM,1973,1004,969,4,4,3661.4955729,3661.4955729,83.07146477,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,DEL-HYD,4,DEL,HYD,1772,899,873,4,4,4180.65824539,4180.65824539,90.97065463,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,DEL-PNQ,5,DEL,PNQ,1469,750,719,5,4,2746.83833489,3422.47612445,79.91831178,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,CCU-DEL,6,CCU,DEL,1612,806,806,4,4,3727.81065089,3727.81065089,84.61538462,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,AMD-DEL,7,AMD,DEL,1180,590,590,4,4,4438.83941396,4438.83941396,93.89830508,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BLR-HYD,8,BLR,HYD,1072,536,536,3,3,4700.58754734,4700.58754734,93.47014925,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,DEL-MAA,9,DEL,MAA,1209,589,620,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BOM-CCU,10,BOM,CCU,1054,527,527,4,4,3633.21799308,3633.21799308,82.35294118,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BOM-HYD,11,BOM,HYD,1178,589,589,3,3,4570.63711911,4570.63711911,94.73684211,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BLR-CCU,12,BLR,CCU,1016,506,510,4,4,4589.96605493,4589.96605493,82.18503937,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BLR-PNQ,15,BLR,PNQ,895,434,461,3,3,3867.88177647,3867.88177647,78.65921788,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,DEL-GAU,18,DEL,GAU,895,434,461,4,3,3238.26347492,4662.43875035,93.0726257,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-05,BOM-GOI,19,BOM,GOI,766,368,398,3,2,3778.40192516,5181.6427953,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,DEL-HYD,4,DEL,HYD,1714,870,844,4,4,4184.2115654,4184.2115654,91.01516919,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,DEL-PNQ,5,DEL,PNQ,1430,730,700,5,4,2744.87750012,3418.86644824,79.86013986,Air India Group,True,0,5,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,CCU-DEL,6,CCU,DEL,1560,780,780,4,4,3727.81065089,3727.81065089,84.61538462,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BLR-HYD,8,BLR,HYD,1036,518,518,3,3,4694.77199207,4694.77199207,93.43629344,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,DEL-MAA,9,DEL,MAA,1170,570,600,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BOM-CCU,10,BOM,CCU,1020,510,510,4,4,3633.21799308,3633.21799308,82.35294118,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BOM-HYD,11,BOM,HYD,1140,570,570,3,3,4570.63711911,4570.63711911,94.73684211,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BLR-CCU,12,BLR,CCU,983,490,493,4,4,4580.25497548,4580.25497548,82.09562564,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BLR-PNQ,15,BLR,PNQ,865,420,445,3,3,3872.05720204,3872.05720204,78.7283237,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,DEL-GAU,18,DEL,GAU,866,420,446,4,3,3238.00329619,4662.08684243,93.07159353,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-06,BOM-GOI,19,BOM,GOI,742,356,386,3,2,3779.46978008,5183.12130833,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BLR-BOM,3,BLR,BOM,1977,1006,971,4,4,3651.03341948,3651.03341948,82.90338897,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,DEL-HYD,4,DEL,HYD,1771,899,872,4,4,4184.75909478,4184.75909478,91.02202146,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,CCU-DEL,6,CCU,DEL,1612,806,806,4,4,3727.81065089,3727.81065089,84.61538462,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BLR-HYD,8,BLR,HYD,1072,536,536,3,3,4681.16507017,4681.16507017,93.28358209,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,DEL-MAA,9,DEL,MAA,1209,589,620,2,2,5003.28731098,5003.28731098,100.0,IndiGo,True,0,2,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BOM-CCU,10,BOM,CCU,1085,558,527,4,4,3502.04081633,3502.04081633,80.0,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BOM-HYD,11,BOM,HYD,1178,589,589,3,3,4570.63711911,4570.63711911,94.73684211,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BLR-CCU,12,BLR,CCU,1013,505,508,4,4,4569.08170097,4569.08170097,82.03356367,IndiGo,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BLR-PNQ,15,BLR,PNQ,896,434,462,3,3,3866.46504305,3866.46504305,78.79464286,IndiGo,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,DEL-GAU,18,DEL,GAU,894,434,460,4,3,3236.31568148,4659.8001091,93.06487696,Air India Group,True,0,4,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0
+2026-07,BOM-GOI,19,BOM,GOI,766,367,399,3,2,3778.40192516,5181.6427953,100.0,Air India Group,True,0,3,approved nonstop departure frequency; both directions; cessation/merger adjusted,0.0

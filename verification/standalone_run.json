@@ -1,0 +1,161 @@
+{
+  "verified_on": "2026-10-20",
+  "passed": true,
+  "isolated_copy_without_surrounding_project": true,
+  "existing_results_excluded_from_copy": true,
+  "command": "python3 reproduce.py --from-pdfs",
+  "python_version": "3.14.8",
+  "pdftotext_version": "26.04.0",
+  "schedule_pdfs_reextracted": 228,
+  "extracted_schedule_rows": 189980,
+  "input_fingerprints_match_after_reextraction": true,
+  "result_files_compared": 29,
+  "all_result_file_bytes_identical": true,
+  "comparisons": [
+    {
+      "path": "results/airline_summary.csv",
+      "sha256": "b0f0313d1be868d1cf1695dd98f178e266e0a77f3c95bdb28ef9c65391e85982",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/break_even_scenarios.csv",
+      "sha256": "81f44003c21ecc8a60518712e8f54c43f9a4de8f4b6bc5d7982f74850ef5356b",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/calculations.json",
+      "sha256": "f34028be60135cb8093c8d9649191dbc87cb110193e23731b39ef2d172989289",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/financial_changes.csv",
+      "sha256": "826e9a441f6d70e63ba571368df69cd36200944666396f9b4f5bf2577dbcbed8",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/financial_year_results.csv",
+      "sha256": "0393151e23adeb90d0f3079ea7e6060da2ec27a1d2316b8b10e901ecd3cb66cb",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/monthly_panel.csv",
+      "sha256": "c93d9c6c9f8111a8aefb378b1c70ac05a66083a950b1dbbf8e3d90170c9941ce",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/operating_year_comparisons.csv",
+      "sha256": "3cff5c57230763881a739c88b490a168ef4537f3e0f24fcf831e74e6b5024c2b",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/entrant_route_months.csv",
+      "sha256": "e23ce8c9cdaf51898bfc8f3e372869cdc0de7d1c8ac93e85348b16130c00cd40",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/entrant_route_trajectories.csv",
+      "sha256": "bac73f092ca48c5d02102f545c640c988aaee0f46d7aea97731a867cdbe83342",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/regional_airline_shares.csv",
+      "sha256": "7f42b1cdf14640d591122e64b4130f310c8346c23a47932045ca3ae86a55f859",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/regional_coverage.csv",
+      "sha256": "3bf81c120cdfba428238e5666744f6dd4aee236ea1d1680131d9fef35f1037c0",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/regional_monthly_summary.csv",
+      "sha256": "bd4a2e5d9d13209a17b892b4c21353871eef0e9b15e07cb676498ba474c5fbd2",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/regional_route_months.csv",
+      "sha256": "398174f3a771e41ad116af63d5712d7944535ad88695a090ee65772d598ddd4b",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/regional_source_rows_used.csv",
+      "sha256": "b5e0d2bc6af4d4aef770fbe33758ef712a9a51ce9821f362fb0eee944b433dc1",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/served_route_passenger_demand.csv",
+      "sha256": "d9268c101f453939ccc5df0358978bed57dd1e2d957bf65e4634c3fb3faec4bd",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/verification.json",
+      "sha256": "b0ce79d5f4b0232a68d88a5bfddb4cfc470dcd882d7b5ed73fa489db0802ac1e",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_evidence/worked_examples.csv",
+      "sha256": "a24be8898c61f94ea8d54090e94669cc6962fcae4ab5ab93cf1a0a263620c19d",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/audit/carrier_shares_before_quality_screen.csv",
+      "sha256": "69c80e4dcb04a184c05f6974333efeed4d927812f367a2952208f2c81616c667",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/audit/published_departure_hhi_before_quality_screen.csv",
+      "sha256": "4764122fb34acf2ada750f1c7d306e8e80ad60fae397ee1261347bc107f9aa29",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/daily_airline_route_counts.csv",
+      "sha256": "c2cc30088f25e4dc055a72aefff5fb7fe07dc26f0689395fe47bf2e005131d48",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/monthly_carrier_route_shares.csv",
+      "sha256": "babe76a52ac3161ceb8c706399b081bf7f6e621a51820a39af111b544a2a752a",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/monthly_coverage.csv",
+      "sha256": "58313a73a99b97ea2689588e7ca720d0808d265f86ea415d514859b7ee2d6496",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/monthly_route_hhi.csv",
+      "sha256": "f257d227c2384cddbbbea620de137043742489f330f2c9624db64ea559eba889",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/monthly_route_hhi_matching_counts.csv",
+      "sha256": "66808b0ffefd494343330912f5e807a0677b85c9b844aa67d2ef8c0c0141f485",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/source_files_used.csv",
+      "sha256": "61fd0294304fd808dcd70b28636d68b630f3bc76b59708b41696027df82a6afa",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/source_rows_used.csv",
+      "sha256": "5f47f474a95ec2634c3b1283fc79965cb854b23018cf8cb9763fc7207826a875",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/top20_routes.csv",
+      "sha256": "928d089cea6436545ecfc26e15c98a35cb3bfa3ff9d69501183cc08fd1d4fcba",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/route_input_rebuild/verification.json",
+      "sha256": "b365503d8b623a7b88d99bb72bd3b04dfc8b319a8cebacafa2a8ac0a09ab43f6",
+      "fresh_pdf_rebuild_matches": true
+    },
+    {
+      "path": "results/trujet_udan_results.csv",
+      "sha256": "950e241c5ef42ae7b2decd43c3c74f39416597dfc80c0705f0936257c7f89a64",
+      "fresh_pdf_rebuild_matches": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "currency_unit": "INR crore",
+  "records": [
+    {"airline": "Vistara", "financial_year": 2023, "operating_income": "12261.4", "profit_after_tax": "-1393.3", "operating_margin_percent": "4.0", "source": "sources/vistara_icra_2024_08_14.pdf", "pdf_page": 4, "scope": "standalone company, domestic and international"},
+    {"airline": "Vistara", "financial_year": 2024, "operating_income": "15310.3", "profit_after_tax": "-581.1", "operating_margin_percent": "14.6", "source": "sources/vistara_icra_2024_08_14.pdf", "pdf_page": 4, "scope": "standalone company, domestic and international"},
+    {"airline": "Akasa Air", "financial_year": 2025, "operating_income": "4582.7", "profit_after_tax": "-1983.5", "operating_margin_percent": "-23.0", "source": "sources/akasa_icra_2026_06_12.pdf", "pdf_page": 4, "scope": "consolidated company, domestic and international"},
+    {"airline": "Akasa Air", "financial_year": 2026, "operating_income": "6167.9", "profit_after_tax": "-2716.0", "operating_margin_percent": "-25.6", "source": "sources/akasa_icra_2026_06_12.pdf", "pdf_page": 4, "scope": "consolidated company, domestic and international"}
+  ],
+  "trujet_udan": {"routes_awarded": 52, "routes_commenced": 42, "routes_operational_march_2023": 0, "source": "sources/cag_udan_audit_2023.pdf", "pdf_page": 103, "printed_page": 73, "scope": "UDAN phases 1 to 3, audit route definitions"},
+  "analyst_assumptions": {
+    "national_share_threshold_percent": "5",
+    "incremental_revenue_contribution_fractions": ["1.0", "0.5"],
+    "scenario_conditions": "Illustrative accounting profit-gap exercise: the chosen fraction of additional revenue contributes to profit; tax and all other profit items remain unchanged. Not an estimated historical cost structure or cash runway."
+  }
+}

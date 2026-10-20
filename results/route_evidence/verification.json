@@ -1,0 +1,164 @@
+{
+  "cutoff": "2026-07",
+  "regional_months": 14,
+  "regional_original_pdfs": 34,
+  "regional_route_months": 265,
+  "regional_unique_routes": 30,
+  "regional_exact_endpoint_matches": 234,
+  "overlap_count_checks": 12,
+  "focal_route_months": 1300,
+  "excluded_top20_route_months_with_published_trujet_after_cessation": [
+    [
+      "2022-02",
+      "HYD-MAA"
+    ],
+    [
+      "2022-03",
+      "HYD-MAA"
+    ]
+  ],
+  "coverage_by_airline": {
+    "Akasa Air": {
+      "observations": 422,
+      "routes": 18
+    },
+    "TruJet": {
+      "observations": 265,
+      "routes": 30
+    },
+    "Vistara": {
+      "observations": 613,
+      "routes": 20
+    }
+  },
+  "H1": {
+    "hypothesis": "TruJet supplied at least half of scheduled frequencies on more than half its covered routes in November 2019.",
+    "month": "2019-11",
+    "routes_in_trujet_filing": 30,
+    "routes_passing_screen": 22,
+    "routes_with_trujet_share_at_least_50_percent": 17,
+    "routes_with_only_trujet_in_recovered_schedules": 14,
+    "supported_in_covered_sample": true
+  },
+  "unmapped_nonfocal_stations": [
+    {
+      "airline": "Air India",
+      "station": "Aizawal",
+      "rows": 60
+    },
+    {
+      "airline": "Air India",
+      "station": "Thoise",
+      "rows": 2
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Aizawal",
+      "rows": 4
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Allahabad",
+      "rows": 26
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Bareli",
+      "rows": 4
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Dharamshala",
+      "rows": 6
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Kalaburgi",
+      "rows": 2
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Ludhiana",
+      "rows": 10
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Pasighat",
+      "rows": 2
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Pathankot",
+      "rows": 6
+    },
+    {
+      "airline": "Alliance Air",
+      "station": "Tezpur",
+      "rows": 8
+    },
+    {
+      "airline": "FlyBig",
+      "station": "Pasighat",
+      "rows": 2
+    },
+    {
+      "airline": "Go First / GoAir",
+      "station": "Aizawal",
+      "rows": 12
+    },
+    {
+      "airline": "IndiGo",
+      "station": "Aizawal",
+      "rows": 14
+    },
+    {
+      "airline": "IndiGo",
+      "station": "Allahabad",
+      "rows": 56
+    },
+    {
+      "airline": "IndiGo",
+      "station": "Bareli",
+      "rows": 4
+    },
+    {
+      "airline": "Jet Airways",
+      "station": "Allahabad",
+      "rows": 8
+    },
+    {
+      "airline": "SpiceJet",
+      "station": "Adampur",
+      "rows": 4
+    },
+    {
+      "airline": "SpiceJet",
+      "station": "Dharamshala",
+      "rows": 2
+    },
+    {
+      "airline": "SpiceJet",
+      "station": "Kushinagar",
+      "rows": 6
+    },
+    {
+      "airline": "SpiceJet",
+      "station": "Pakyong",
+      "rows": 8
+    },
+    {
+      "airline": "Star Air",
+      "station": "Kalaburgi",
+      "rows": 8
+    }
+  ],
+  "limits": [
+    "Approved schedules, not actual departures or passenger shares.",
+    "At most 5% sum of directed airline endpoint-count differences; excludes unresolved route extraction issues.",
+    "Matching endpoints cannot detect a carrier missing from both airport reports or an entirely missing filing.",
+    "Top20 series are a selected major-route sample; the extension covers TruJet's recovered regional filings.",
+    "Route sets and periods differ; no cross-airline network ranking or complete entry-age route comparison.",
+    "City-pair passengers cover all airlines; cannot be multiplied by frequency shares to recover airline passengers.",
+    "Post-2020 schedules can differ substantially from actual operation during the pandemic."
+  ]
+}

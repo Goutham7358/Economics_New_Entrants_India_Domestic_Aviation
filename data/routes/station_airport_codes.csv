@@ -1,0 +1,127 @@
+station_city,iata,mapping_basis
+Agartala,IXA,manual station identity for audit only
+Agatti,AGX,matched DGCA counterpart movement rows
+Agra,AGR,matched DGCA counterpart movement rows
+Ahmedabad,AMD,matched DGCA counterpart movement rows
+Aizawl,AJL,matched DGCA counterpart movement rows
+Ambikapur,AHA,matched DGCA counterpart movement rows
+Amravati,AVR,matched DGCA counterpart movement rows
+Amritsar,ATQ,matched DGCA counterpart movement rows
+Aurangabad,IXU,matched DGCA counterpart movement rows
+Ayodhya,AYJ,matched DGCA counterpart movement rows
+Bagdogra,IXB,matched DGCA counterpart movement rows
+Bangalore,BLR,six requested airports
+Bareilly,BEK,matched DGCA counterpart movement rows
+Bathinda,BUP,matched DGCA counterpart movement rows
+Belgaum,IXG,matched DGCA counterpart movement rows
+Bhavnagar,BHU,matched DGCA counterpart movement rows
+Bhopal,BHO,matched DGCA counterpart movement rows
+Bhubneshwar,BBI,matched DGCA counterpart movement rows
+Bhuj,BHJ,matched DGCA counterpart movement rows
+Bidar,IXX,matched DGCA counterpart movement rows
+Bikaner,BKB,matched DGCA counterpart movement rows
+Bilaspur,PAB,matched DGCA counterpart movement rows
+Chandigarh,IXC,manual station identity for audit only
+Chennai,MAA,matched DGCA counterpart movement rows
+Coimbatore,CJB,matched DGCA counterpart movement rows
+Cooch Behar,COH,matched DGCA counterpart movement rows
+Cuddapah,CDP,matched DGCA counterpart movement rows
+Darbhanga,DBR,matched DGCA counterpart movement rows
+Dehradun,DED,matched DGCA counterpart movement rows
+Delhi,DEL,six requested airports
+Deogarh,DGH,matched DGCA counterpart movement rows
+Dharamsala,DHM,matched DGCA counterpart movement rows
+Dibrugarh,DIB,matched DGCA counterpart movement rows
+Dimapur,DMU,matched DGCA counterpart movement rows
+Diu,DIU,matched DGCA counterpart movement rows
+Durgapur,RDP,matched DGCA counterpart movement rows
+GOA MOPA,GOX,matched DGCA counterpart movement rows
+Gaya,GAY,matched DGCA counterpart movement rows
+Goa,GOI,matched DGCA counterpart movement rows
+Gondia,GDB,matched DGCA counterpart movement rows
+Gorakhpur,GOP,matched DGCA counterpart movement rows
+Guwahati,GAU,manual station identity for audit only
+Gwalior,GWL,matched DGCA counterpart movement rows
+Halwara,HWR,matched DGCA counterpart movement rows
+Hindon,HDO,matched DGCA counterpart movement rows
+Hisar,HSS,matched DGCA counterpart movement rows
+Hollongi,HGI,matched DGCA counterpart movement rows
+Hubali,HBX,matched DGCA counterpart movement rows
+Hyderabad,HYD,six requested airports
+Imphal,IMF,matched DGCA counterpart movement rows
+Indore,IDR,matched DGCA counterpart movement rows
+Jabalpur,JLR,matched DGCA counterpart movement rows
+Jagdalpur,JGB,manual station identity for audit only
+Jaipur,JAI,matched DGCA counterpart movement rows
+Jalandhar,AIP,matched DGCA counterpart movement rows
+Jalgaon,JLG,matched DGCA counterpart movement rows
+Jammu,IXJ,manual station identity for audit only
+Jamnagar,JGA,matched DGCA counterpart movement rows
+Jamshedpur,IXW,matched DGCA counterpart movement rows
+Jeypore,PYB,matched DGCA counterpart movement rows
+Jharsuguda,JRG,matched DGCA counterpart movement rows
+Jodhpur,JDH,matched DGCA counterpart movement rows
+Jorhat,JRH,matched DGCA counterpart movement rows
+Kandla,IXY,matched DGCA counterpart movement rows
+Kannur,CNN,matched DGCA counterpart movement rows
+Kanpur,KNU,matched DGCA counterpart movement rows
+Keshod,IXK,matched DGCA counterpart movement rows
+Khajuraho,HJR,matched DGCA counterpart movement rows
+Kishangarh,KQH,manual station identity for audit only
+Kochi,COK,six requested airports
+Kolhapur,KLH,matched DGCA counterpart movement rows
+Kolkata,CCU,six requested airports
+Kozhikode,CCJ,matched DGCA counterpart movement rows
+Kullu,KUU,matched DGCA counterpart movement rows
+Kurnool,KJB,matched DGCA counterpart movement rows
+Leh,IXL,matched DGCA counterpart movement rows
+Lilabari,IXI,matched DGCA counterpart movement rows
+Lucknow,LKO,matched DGCA counterpart movement rows
+Madurai,IXM,matched DGCA counterpart movement rows
+Mangalore,IXE,matched DGCA counterpart movement rows
+Mumbai,BOM,six requested airports
+Mysore,MYQ,matched DGCA counterpart movement rows
+Nagpur,NAG,matched DGCA counterpart movement rows
+Nanded,NDC,matched DGCA counterpart movement rows
+Nashik,ISK,matched DGCA counterpart movement rows
+Navi Mumbai,NMI,matched DGCA counterpart movement rows
+Pantnagar,PGH,matched DGCA counterpart movement rows
+Passighat,IXT,matched DGCA counterpart movement rows
+Patna,PAT,manual station identity for audit only
+Pithoragarh,NNS,matched DGCA counterpart movement rows
+Pondicherry,PNY,matched DGCA counterpart movement rows
+Porbandar,PBD,matched DGCA counterpart movement rows
+Port Blair,IXZ,matched DGCA counterpart movement rows
+Prayagraj,IXD,matched DGCA counterpart movement rows
+Pune,PNQ,matched DGCA counterpart movement rows
+Purnia,PXN,matched DGCA counterpart movement rows
+Raipur,RPR,matched DGCA counterpart movement rows
+Rajahmundry,RJA,matched DGCA counterpart movement rows
+Rajkot,HSR,matched DGCA counterpart movement rows
+Ranchi,IXR,matched DGCA counterpart movement rows
+Raurkela,RRK,matched DGCA counterpart movement rows
+Rewa,REW,manual station identity for audit only
+Rupsi,RUP,matched DGCA counterpart movement rows
+Salem,SXV,matched DGCA counterpart movement rows
+Shillong,SHL,matched DGCA counterpart movement rows
+Shimla,SLV,matched DGCA counterpart movement rows
+Shirdi,SAG,matched DGCA counterpart movement rows
+Shivamogga,RQY,matched DGCA counterpart movement rows
+Silchar,IXS,matched DGCA counterpart movement rows
+Sindhudurg,SDW,matched DGCA counterpart movement rows
+Solapur,SSE,matched DGCA counterpart movement rows
+Srinagar,SXR,matched DGCA counterpart movement rows
+Surat,STV,matched DGCA counterpart movement rows
+Tezu,TEI,matched DGCA counterpart movement rows
+Tirupati,TIR,matched DGCA counterpart movement rows
+Trichy,TRZ,matched DGCA counterpart movement rows
+Trivandrum,TRV,matched DGCA counterpart movement rows
+Tuticorin,TCR,matched DGCA counterpart movement rows
+Udaipur,UDR,matched DGCA counterpart movement rows
+Utkela,UKE,matched DGCA counterpart movement rows
+Vadodara,BDQ,matched DGCA counterpart movement rows
+Varanasi,VNS,matched DGCA counterpart movement rows
+Vidyanagar,VDY,matched DGCA counterpart movement rows
+Vijayawada,VGA,matched DGCA counterpart movement rows
+Vizag,VTZ,matched DGCA counterpart movement rows
+Ziro,ZER,manual station identity for audit only

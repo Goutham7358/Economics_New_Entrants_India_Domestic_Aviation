@@ -1,0 +1,109 @@
+source_file,cell,airline,year,month,field,original_value,cleaned_value,absolute_difference,passed
+TruJet17.xlsx,E10,TruJet,2017,7,passengers,44254,44254,0,True
+TruJet17.xlsx,F10,TruJet,2017,7,passenger_km,18563,18563.0,0.0,True
+TruJet17.xlsx,G10,TruJet,2017,7,seat_km,23007,23007.0,0.0,True
+TruJet17.xlsx,E11,TruJet,2017,8,passengers,46586,46586,0,True
+TruJet17.xlsx,F11,TruJet,2017,8,passenger_km,19229,19229.0,0.0,True
+TruJet17.xlsx,G11,TruJet,2017,8,seat_km,23113,23113.0,0.0,True
+TruJet17.xlsx,E12,TruJet,2017,9,passengers,40860,40860,0,True
+TruJet17.xlsx,F12,TruJet,2017,9,passenger_km,16752,16752.0,0.0,True
+TruJet17.xlsx,G12,TruJet,2017,9,seat_km,22530,22530.0,0.0,True
+TruJet17.xlsx,E13,TruJet,2017,10,passengers,37466,37466,0,True
+TruJet17.xlsx,F13,TruJet,2017,10,passenger_km,15009,15009.0,0.0,True
+TruJet17.xlsx,G13,TruJet,2017,10,seat_km,22832,22832.0,0.0,True
+TruJet17.xlsx,E14,TruJet,2017,11,passengers,28708,28708,0,True
+TruJet17.xlsx,F14,TruJet,2017,11,passenger_km,11383,11383.0,0.0,True
+TruJet17.xlsx,G14,TruJet,2017,11,seat_km,16608,16608.0,0.0,True
+TruJet17.xlsx,E15,TruJet,2017,12,passengers,29421,29421,0,True
+TruJet17.xlsx,F15,TruJet,2017,12,passenger_km,10859,10859.0,0.0,True
+TruJet17.xlsx,G15,TruJet,2017,12,seat_km,14350,14350.0,0.0,True
+TruJet18.xlsx,E4,TruJet,2018,1,passengers,32892,32892,0,True
+TruJet18.xlsx,F4,TruJet,2018,1,passenger_km,11938,11938.0,0.0,True
+TruJet18.xlsx,G4,TruJet,2018,1,seat_km,15509,15509.0,0.0,True
+TruJet18.xlsx,E5,TruJet,2018,2,passengers,30606,30606,0,True
+TruJet18.xlsx,F5,TruJet,2018,2,passenger_km,11033,11033.0,0.0,True
+TruJet18.xlsx,G5,TruJet,2018,2,seat_km,14338,14338.0,0.0,True
+TruJet18.xlsx,E6,TruJet,2018,3,passengers,42651,42651,0,True
+TruJet18.xlsx,F6,TruJet,2018,3,passenger_km,15114.1,15114.1,0.0,True
+TruJet18.xlsx,G6,TruJet,2018,3,seat_km,20997.9,20997.9,0.0,True
+TruJet18.xlsx,E7,TruJet,2018,4,passengers,52947,52947,0,True
+TruJet18.xlsx,F7,TruJet,2018,4,passenger_km,18909.099999999999,18909.1,1E-12,True
+TruJet18.xlsx,G7,TruJet,2018,4,seat_km,23717.4,23717.4,0.0,True
+TruJet18.xlsx,E8,TruJet,2018,5,passengers,56818,56818,0,True
+TruJet18.xlsx,F8,TruJet,2018,5,passenger_km,20529.5,20529.5,0.0,True
+TruJet18.xlsx,G8,TruJet,2018,5,seat_km,24827.8,24827.8,0.0,True
+TruJet18.xlsx,E9,TruJet,2018,6,passengers,52173,52173,0,True
+TruJet18.xlsx,F9,TruJet,2018,6,passenger_km,18740.5,18740.5,0.0,True
+TruJet18.xlsx,G9,TruJet,2018,6,seat_km,23724.1,23724.1,0.0,True
+vistara17.xlsx,E4,Vistara,2017,1,passengers,303208,303208,0,True
+vistara17.xlsx,F4,Vistara,2017,1,passenger_km,344156,344156.0,0.0,True
+vistara17.xlsx,G4,Vistara,2017,1,seat_km,404607,404607.0,0.0,True
+vistara17.xlsx,E5,Vistara,2017,2,passengers,270016,270016,0,True
+vistara17.xlsx,F5,Vistara,2017,2,passenger_km,308010,308010.0,0.0,True
+vistara17.xlsx,G5,Vistara,2017,2,seat_km,362317,362317.0,0.0,True
+vistara17.xlsx,E6,Vistara,2017,3,passengers,291871,291871,0,True
+vistara17.xlsx,F6,Vistara,2017,3,passenger_km,332989,332989.0,0.0,True
+vistara17.xlsx,G6,Vistara,2017,3,seat_km,405087,405087.0,0.0,True
+vistara17.xlsx,E7,Vistara,2017,4,passengers,296589,296589,0,True
+vistara17.xlsx,F7,Vistara,2017,4,passenger_km,345390,345390.0,0.0,True
+vistara17.xlsx,G7,Vistara,2017,4,seat_km,413102,413102.0,0.0,True
+vistara17.xlsx,E8,Vistara,2017,5,passengers,334435,334435,0,True
+vistara17.xlsx,F8,Vistara,2017,5,passenger_km,380116,380116.0,0.0,True
+vistara17.xlsx,G8,Vistara,2017,5,seat_km,437763,437763.0,0.0,True
+vistara17.xlsx,E9,Vistara,2017,6,passengers,343729,343729,0,True
+vistara17.xlsx,F9,Vistara,2017,6,passenger_km,384365,384365.0,0.0,True
+vistara17.xlsx,G9,Vistara,2017,6,seat_km,444963,444963.0,0.0,True
+vistara17.xlsx,E10,Vistara,2017,7,passengers,348947,348947,0,True
+vistara17.xlsx,F10,Vistara,2017,7,passenger_km,389439,389439.0,0.0,True
+vistara17.xlsx,G10,Vistara,2017,7,seat_km,460162,460162.0,0.0,True
+vistara17.xlsx,E11,Vistara,2017,8,passengers,358627,358627,0,True
+vistara17.xlsx,F11,Vistara,2017,8,passenger_km,395704,395704.0,0.0,True
+vistara17.xlsx,G11,Vistara,2017,8,seat_km,474454,474454.0,0.0,True
+vistara17.xlsx,E12,Vistara,2017,9,passengers,361728,361728,0,True
+vistara17.xlsx,F12,Vistara,2017,9,passenger_km,416658,416658.0,0.0,True
+vistara17.xlsx,G12,Vistara,2017,9,seat_km,495643,495643.0,0.0,True
+vistara17.xlsx,E13,Vistara,2017,10,passengers,369694,369694,0,True
+vistara17.xlsx,F13,Vistara,2017,10,passenger_km,421189,421189.0,0.0,True
+vistara17.xlsx,G13,Vistara,2017,10,seat_km,524791,524791.0,0.0,True
+vistara17.xlsx,E14,Vistara,2017,11,passengers,372467,372467,0,True
+vistara17.xlsx,F14,Vistara,2017,11,passenger_km,425986,425986.0,0.0,True
+vistara17.xlsx,G14,Vistara,2017,11,seat_km,490360,490360.0,0.0,True
+vistara17.xlsx,E15,Vistara,2017,12,passengers,412711,412711,0,True
+vistara17.xlsx,F15,Vistara,2017,12,passenger_km,469209,469209.0,0.0,True
+vistara17.xlsx,G15,Vistara,2017,12,seat_km,535316,535316.0,0.0,True
+akasa air 24.xlsx,E11,Akasa Air,2024,8,passengers,591857,591857,0,True
+akasa air 24.xlsx,F11,Akasa Air,2024,8,passenger_km,649724.38600000006,649724.386,6E-11,True
+akasa air 24.xlsx,G11,Akasa Air,2024,8,seat_km,759700.17599999998,759700.176,2E-11,True
+akasa air 24.xlsx,E12,Akasa Air,2024,9,passengers,572972,572972,0,True
+akasa air 24.xlsx,F12,Akasa Air,2024,9,passenger_km,634605.84400000004,634605.844,4E-11,True
+akasa air 24.xlsx,G12,Akasa Air,2024,9,seat_km,739072.55599999998,739072.556,2E-11,True
+akasa air 24.xlsx,E13,Akasa Air,2024,10,passengers,615370,615370,0,True
+akasa air 24.xlsx,F13,Akasa Air,2024,10,passenger_km,714114.74699999997,714114.747,3E-11,True
+akasa air 24.xlsx,G13,Akasa Air,2024,10,seat_km,833484.79,833484.79,0.00,True
+akasa air 24.xlsx,E14,Akasa Air,2024,11,passengers,672121,672121,0,True
+akasa air 24.xlsx,F14,Akasa Air,2024,11,passenger_km,803209.65599999996,803209.656,4E-11,True
+akasa air 24.xlsx,G14,Akasa Air,2024,11,seat_km,867593.84900000005,867593.849,5E-11,True
+akasa air 24.xlsx,E15,Akasa Air,2024,12,passengers,686835,686835,0,True
+akasa air 24.xlsx,F15,Akasa Air,2024,12,passenger_km,811906.92200000002,811906.922,2E-11,True
+akasa air 24.xlsx,G15,Akasa Air,2024,12,seat_km,870198.05900000001,870198.059,1E-11,True
+akasa air 25.xlsx,E4,Akasa Air,2025,1,passengers,685848,685848,0,True
+akasa air 25.xlsx,F4,Akasa Air,2025,1,passenger_km,815423.19900000002,815423.199,2E-11,True
+akasa air 25.xlsx,G4,Akasa Air,2025,1,seat_km,869504.25300000003,869504.253,3E-11,True
+akasa air 25.xlsx,E5,Akasa Air,2025,2,passengers,657633,657633,0,True
+akasa air 25.xlsx,F5,Akasa Air,2025,2,passenger_km,785475.804,785475.804,0.000,True
+akasa air 25.xlsx,G5,Akasa Air,2025,2,seat_km,825474.44,825474.44,0.00,True
+akasa air 25.xlsx,E6,Akasa Air,2025,3,passengers,719271,719271,0,True
+akasa air 25.xlsx,F6,Akasa Air,2025,3,passenger_km,857586.72100000002,857586.721,2E-11,True
+akasa air 25.xlsx,G6,Akasa Air,2025,3,seat_km,927060.68200000003,927060.682,3E-11,True
+akasa air 25.xlsx,E7,Akasa Air,2025,4,passengers,712182,712182,0,True
+akasa air 25.xlsx,F7,Akasa Air,2025,4,passenger_km,849462.02500000002,849462.025,2E-11,True
+akasa air 25.xlsx,G7,Akasa Air,2025,4,seat_km,913082.38800000004,913082.388,4E-11,True
+akasa air 25.xlsx,E8,Akasa Air,2025,5,passengers,746531,746531,0,True
+akasa air 25.xlsx,F8,Akasa Air,2025,5,passenger_km,895399.36699999997,895399.367,3E-11,True
+akasa air 25.xlsx,G8,Akasa Air,2025,5,seat_km,978991.73400000005,978991.734,5E-11,True
+akasa air 25.xlsx,E9,Akasa Air,2025,6,passengers,722093,722093,0,True
+akasa air 25.xlsx,F9,Akasa Air,2025,6,passenger_km,867159.53399999999,867159.534,1E-11,True
+akasa air 25.xlsx,G9,Akasa Air,2025,6,seat_km,949065.33200000005,949065.332,5E-11,True
+akasa air 25.xlsx,E10,Akasa Air,2025,7,passengers,697509,697509,0,True
+akasa air 25.xlsx,F10,Akasa Air,2025,7,passenger_km,854276.76300000004,854276.763,4E-11,True
+akasa air 25.xlsx,G10,Akasa Air,2025,7,seat_km,947357.47400000005,947357.474,5E-11,True

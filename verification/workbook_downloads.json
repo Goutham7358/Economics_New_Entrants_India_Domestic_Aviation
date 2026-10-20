@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "TruJet17.xlsx",
+    "url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/TruJet17.xlsx",
+    "expected_sha256": "ff61ca66dc1c85af9d3fcbe9877f0950035754f664aa8ee8ebc887e716cd0dd9",
+    "actual_sha256": "ff61ca66dc1c85af9d3fcbe9877f0950035754f664aa8ee8ebc887e716cd0dd9",
+    "matches_repository_manifest": true
+  },
+  {
+    "filename": "TruJet18.xlsx",
+    "url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/TruJet18.xlsx",
+    "expected_sha256": "19f71c93549b380b7d0085cb8b18b682588c1140189c04f01ef324f4c90741ae",
+    "actual_sha256": "19f71c93549b380b7d0085cb8b18b682588c1140189c04f01ef324f4c90741ae",
+    "matches_repository_manifest": true
+  },
+  {
+    "filename": "vistara17.xlsx",
+    "url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/vistara17.xlsx",
+    "expected_sha256": "c90ac1a731786cae7db414b7fdf0b80c4323213bc328bc09f30cc2c7700ef948",
+    "actual_sha256": "c90ac1a731786cae7db414b7fdf0b80c4323213bc328bc09f30cc2c7700ef948",
+    "matches_repository_manifest": true
+  },
+  {
+    "filename": "akasa air 24.xlsx",
+    "url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/akasa%20air%2024.xlsx",
+    "expected_sha256": "30c11e8dc94f5cd312ec88fb46001362a9f4ea0413fdbc61831dde27b0164997",
+    "actual_sha256": "30c11e8dc94f5cd312ec88fb46001362a9f4ea0413fdbc61831dde27b0164997",
+    "matches_repository_manifest": true
+  },
+  {
+    "filename": "akasa air 25.xlsx",
+    "url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/akasa%20air%2025.xlsx",
+    "expected_sha256": "e9b1ea8151962f5571b89d5470f127071c882404612d789b2e9b6fa6cc6868b8",
+    "actual_sha256": "e9b1ea8151962f5571b89d5470f127071c882404612d789b2e9b6fa6cc6868b8",
+    "matches_repository_manifest": true
+  }
+]

@@ -1,0 +1,373 @@
+month,route,included,reason,endpoint_difference_pct,recovered_carrier_count,trujet_scheduled_flights
+2019-04,AMD-IDR,True,,0.0,1,60
+2019-04,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.40740741,2,56
+2019-04,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,78.04878049,2,52
+2019-04,AMD-JSA,True,,3.84615385,2,52
+2019-04,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,5.45454545,1,55
+2019-04,BLR-VDY,True,,0.0,1,60
+2019-04,BOM-NDC,True,,0.0,1,60
+2019-04,CDP-HYD,True,,0.0,1,60
+2019-04,CDP-MAA,True,,0.0,1,60
+2019-04,CDP-VGA,True,,0.0,1,60
+2019-04,GOI-HYD,True,,0.0,6,60
+2019-04,HYD-IXU,True,,0.0,1,60
+2019-04,HYD-MAA,True,,3.33333333,5,60
+2019-04,HYD-NDC,True,,0.0,1,60
+2019-04,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,33.79501385,3,60
+2019-04,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.78293601,5,120
+2019-04,HYD-VDY,True,,0.0,1,60
+2019-04,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,10.15761821,4,120
+2019-04,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,30.42071197,4,30
+2019-04,MAA-MYQ,True,,0.0,1,60
+2019-04,MAA-SXV,True,,0.0,1,60
+2019-05,AMD-IDR,True,,0.0,1,62
+2019-05,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,2,58
+2019-05,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,77.64705882,2,54
+2019-05,AMD-JSA,True,,3.7037037,2,54
+2019-05,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,6.89655172,1,58
+2019-05,BLR-VDY,True,,0.0,1,62
+2019-05,BOM-NDC,True,,0.0,1,62
+2019-05,CDP-HYD,True,,0.0,1,62
+2019-05,CDP-MAA,True,,0.0,1,62
+2019-05,CDP-VGA,True,,0.0,1,62
+2019-05,GOI-HYD,True,,0.0,6,62
+2019-05,HYD-IXU,True,,0.0,1,62
+2019-05,HYD-MAA,True,,3.33333333,5,62
+2019-05,HYD-NDC,True,,0.0,1,62
+2019-05,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,46.15384615,3,62
+2019-05,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.48484848,5,124
+2019-05,HYD-VDY,True,,0.0,1,62
+2019-05,HYD-VGA,True,,0.0,4,124
+2019-05,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,35.29411765,4,31
+2019-05,MAA-MYQ,True,,0.0,1,62
+2019-05,MAA-SXV,True,,0.0,1,62
+2019-06,AMD-IDR,True,,0.0,1,60
+2019-06,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,9.52380952,2,55
+2019-06,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,81.25,2,50
+2019-06,AMD-JSA,True,,5.0,2,50
+2019-06,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,9.09090909,1,55
+2019-06,BLR-VDY,True,,0.0,1,60
+2019-06,BOM-NDC,True,,0.0,1,60
+2019-06,CDP-HYD,True,,0.0,1,60
+2019-06,CDP-MAA,True,,0.0,1,60
+2019-06,CDP-VGA,True,,0.0,1,60
+2019-06,GOI-HYD,True,,0.0,6,60
+2019-06,HYD-IXU,True,,0.0,1,60
+2019-06,HYD-MAA,True,,3.33333333,5,60
+2019-06,HYD-NDC,True,,0.0,1,60
+2019-06,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,46.15384615,3,60
+2019-06,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.54271357,5,120
+2019-06,HYD-VDY,True,,0.0,1,60
+2019-06,HYD-VGA,True,,0.0,4,120
+2019-06,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,35.12747875,4,30
+2019-06,MAA-MYQ,True,,0.0,1,60
+2019-06,MAA-SXV,True,,0.0,1,60
+2019-07,AMD-IDR,True,,0.0,1,62
+2019-07,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,2,58
+2019-07,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,77.64705882,2,54
+2019-07,AMD-JSA,True,,3.7037037,2,54
+2019-07,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,6.89655172,1,58
+2019-07,BLR-VDY,True,,0.0,1,62
+2019-07,BOM-NDC,True,,0.0,1,62
+2019-07,CDP-HYD,True,,0.0,1,62
+2019-07,CDP-MAA,True,,0.0,1,62
+2019-07,CDP-VGA,True,,0.0,1,62
+2019-07,GOI-HYD,True,,0.0,6,62
+2019-07,HYD-IXU,True,,0.0,1,62
+2019-07,HYD-MAA,True,,3.33333333,5,62
+2019-07,HYD-NDC,True,,0.0,1,62
+2019-07,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,46.15384615,3,62
+2019-07,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.73786408,5,124
+2019-07,HYD-VDY,True,,0.0,1,62
+2019-07,HYD-VGA,True,,0.0,4,124
+2019-07,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,35.29411765,4,31
+2019-07,MAA-MYQ,True,,0.0,1,62
+2019-07,MAA-SXV,True,,0.0,1,62
+2019-08,AMD-IDR,True,,0.0,1,62
+2019-08,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,2,58
+2019-08,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,77.64705882,2,54
+2019-08,AMD-JSA,True,,3.7037037,2,54
+2019-08,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,6.89655172,1,58
+2019-08,BLR-VDY,True,,0.0,1,62
+2019-08,BOM-NDC,True,,0.0,1,62
+2019-08,CDP-HYD,True,,0.0,1,62
+2019-08,CDP-MAA,True,,0.0,1,62
+2019-08,CDP-VGA,True,,0.0,1,62
+2019-08,GOI-HYD,True,,0.0,6,62
+2019-08,HYD-IXU,True,,0.0,1,62
+2019-08,HYD-MAA,True,,3.33333333,5,62
+2019-08,HYD-NDC,True,,0.0,1,62
+2019-08,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,46.15384615,3,62
+2019-08,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.5054678,5,124
+2019-08,HYD-VDY,True,,0.0,1,62
+2019-08,HYD-VGA,True,,0.0,4,124
+2019-08,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,35.06849315,4,31
+2019-08,MAA-MYQ,True,,0.0,1,62
+2019-08,MAA-SXV,True,,0.0,1,62
+2019-09,AMD-IDR,True,,0.0,1,60
+2019-09,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,9.52380952,2,55
+2019-09,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,81.25,2,50
+2019-09,AMD-JSA,True,,5.0,2,50
+2019-09,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,9.09090909,1,55
+2019-09,BLR-VDY,True,,0.0,1,60
+2019-09,BOM-NDC,True,,0.0,1,60
+2019-09,CDP-HYD,True,,0.0,1,60
+2019-09,CDP-MAA,True,,0.0,1,60
+2019-09,CDP-VGA,True,,0.0,1,60
+2019-09,GOI-HYD,True,,0.0,6,60
+2019-09,HYD-IXU,True,,0.0,1,60
+2019-09,HYD-MAA,True,,3.33333333,5,60
+2019-09,HYD-NDC,True,,0.0,1,60
+2019-09,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,46.15384615,3,60
+2019-09,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.52130326,5,120
+2019-09,HYD-VDY,True,,0.0,1,60
+2019-09,HYD-VGA,True,,0.0,4,120
+2019-09,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,35.02824859,4,30
+2019-09,MAA-MYQ,True,,0.0,1,60
+2019-09,MAA-SXV,True,,0.0,1,60
+2019-10,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,15.30612245,4,73
+2019-10,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,6.25,2,58
+2019-10,AMD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,57.14285714,2,10
+2019-10,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,64.04494382,2,55
+2019-10,AMD-JLG,True,,0.0,1,10
+2019-10,AMD-JSA,True,,2.77777778,2,54
+2019-10,AMD-PBD,False,directed airline endpoint-count discrepancy exceeds 5%,5.08474576,1,59
+2019-10,BLR-VDY,True,,0.0,1,62
+2019-10,BOM-JLG,True,,0.0,1,8
+2019-10,BOM-KLH,True,,0.0,1,8
+2019-10,BOM-NDC,True,,0.0,1,62
+2019-10,CDP-HYD,True,,0.0,1,62
+2019-10,CDP-IXG,False,directed airline endpoint-count discrepancy exceeds 5%,11.11111111,1,9
+2019-10,CDP-MAA,True,,0.0,1,62
+2019-10,CDP-VGA,True,,0.0,1,62
+2019-10,GOI-HYD,True,,0.0,6,62
+2019-10,HYD-IDR,True,,0.0,3,20
+2019-10,HYD-IXG,True,,2.40963855,3,11
+2019-10,HYD-IXU,True,,2.81690141,2,62
+2019-10,HYD-MAA,True,,3.64963504,6,62
+2019-10,HYD-NDC,True,,0.0,1,62
+2019-10,HYD-RJA,False,directed airline endpoint-count discrepancy exceeds 5%,38.48039216,3,72
+2019-10,HYD-TIR,False,directed airline endpoint-count discrepancy exceeds 5%,8.2156611,5,114
+2019-10,HYD-VDY,True,,0.0,1,62
+2019-10,HYD-VGA,True,,1.78861789,5,114
+2019-10,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,31.87588152,5,31
+2019-10,IXG-MYQ,True,,0.0,1,10
+2019-10,IXG-TIR,True,,0.0,1,10
+2019-10,MAA-MYQ,False,directed airline endpoint-count discrepancy exceeds 5%,14.92537313,1,67
+2019-10,MAA-SXV,True,,0.0,1,62
+2019-11,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,25.46583851,4,138
+2019-11,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.40740741,2,56
+2019-11,AMD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,60.46511628,2,60
+2019-11,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,7.40740741,2,56
+2019-11,AMD-JLG,True,,0.0,1,60
+2019-11,AMD-JSA,True,,0.0,2,52
+2019-11,AMD-PBD,True,,0.0,1,60
+2019-11,BLR-VDY,True,,0.0,1,60
+2019-11,BOM-JLG,True,,0.0,1,42
+2019-11,BOM-KLH,True,,0.0,1,42
+2019-11,BOM-NDC,True,,0.0,1,60
+2019-11,CDP-HYD,True,,0.0,1,60
+2019-11,CDP-IXG,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,1,56
+2019-11,CDP-MAA,True,,0.0,1,60
+2019-11,CDP-VGA,True,,0.0,1,60
+2019-11,GOI-HYD,True,,0.0,5,60
+2019-11,HYD-IDR,True,,0.0,2,120
+2019-11,HYD-IXG,True,,2.17391304,3,64
+2019-11,HYD-IXU,True,,0.0,2,60
+2019-11,HYD-MAA,True,,2.82485876,6,28
+2019-11,HYD-NDC,True,,0.0,1,60
+2019-11,HYD-RJA,True,,0.0,2,120
+2019-11,HYD-TIR,True,,0.0,4,60
+2019-11,HYD-VDY,True,,0.0,1,60
+2019-11,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,10.52631579,5,60
+2019-11,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,31.69014085,4,30
+2019-11,IXG-MYQ,True,,0.0,1,60
+2019-11,IXG-TIR,True,,0.0,1,60
+2019-11,MAA-MYQ,False,directed airline endpoint-count discrepancy exceeds 5%,26.41509434,1,106
+2019-11,MAA-SXV,True,,0.0,1,60
+2019-12,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,35.12880562,4,142
+2019-12,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,9.17431193,2,57
+2019-12,AMD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,59.09090909,2,62
+2019-12,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,9.17431193,2,57
+2019-12,AMD-JLG,True,,0.0,1,62
+2019-12,AMD-JSA,True,,0.0,2,52
+2019-12,AMD-PBD,True,,0.0,1,62
+2019-12,BDR-BLR,False,directed airline endpoint-count discrepancy exceeds 5%; both departure directions not represented,200.0,1,31
+2019-12,BLR-HYD,True,,3.29920364,6,62
+2019-12,BLR-VDY,True,,0.0,1,62
+2019-12,BOM-JLG,True,,0.0,1,44
+2019-12,BOM-KLH,True,,0.0,1,44
+2019-12,BOM-NDC,True,,0.0,1,62
+2019-12,CDP-HYD,True,,0.0,1,62
+2019-12,CDP-IXG,False,directed airline endpoint-count discrepancy exceeds 5%,8.77192982,1,57
+2019-12,CDP-MAA,True,,0.0,1,62
+2019-12,CDP-VGA,True,,0.0,1,62
+2019-12,GOI-HYD,True,,0.0,5,62
+2019-12,HYD-IDR,True,,0.0,2,124
+2019-12,HYD-IXG,True,,2.61780105,3,67
+2019-12,HYD-IXU,True,,0.0,2,62
+2019-12,HYD-NDC,True,,0.0,1,62
+2019-12,HYD-RJA,True,,0.0,2,124
+2019-12,HYD-TIR,True,,0.0,4,62
+2019-12,HYD-VDY,True,,0.0,1,62
+2019-12,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,20.0,5,93
+2019-12,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,19.96779388,4,62
+2019-12,IXG-MYQ,True,,0.0,1,62
+2019-12,IXG-TIR,True,,0.0,1,62
+2019-12,MAA-MYQ,True,,0.0,1,124
+2019-12,MAA-SXV,True,,0.0,1,62
+2020-01,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,34.9537037,4,142
+2020-01,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,2,58
+2020-01,AMD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,60.6741573,2,62
+2020-01,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,7.14285714,2,58
+2020-01,AMD-JLG,True,,0.0,1,62
+2020-01,AMD-JSA,True,,0.0,2,54
+2020-01,AMD-PBD,True,,0.0,1,62
+2020-01,BDR-BLR,False,directed airline endpoint-count discrepancy exceeds 5%; both departure directions not represented,200.0,1,31
+2020-01,BLR-HYD,True,,3.33899264,6,62
+2020-01,BLR-VDY,True,,0.0,1,62
+2020-01,BOM-JLG,True,,0.0,1,44
+2020-01,BOM-KLH,True,,0.0,1,44
+2020-01,BOM-NDC,True,,0.0,1,62
+2020-01,CDP-HYD,True,,0.0,1,62
+2020-01,CDP-IXG,False,directed airline endpoint-count discrepancy exceeds 5%,6.89655172,1,58
+2020-01,CDP-MAA,True,,0.0,1,62
+2020-01,CDP-VGA,True,,0.0,1,62
+2020-01,GOI-HYD,True,,0.0,5,62
+2020-01,HYD-IDR,True,,0.0,2,124
+2020-01,HYD-IXG,True,,2.10526316,3,66
+2020-01,HYD-IXU,True,,0.0,2,62
+2020-01,HYD-NDC,True,,0.0,1,62
+2020-01,HYD-RJA,True,,0.0,2,124
+2020-01,HYD-TIR,True,,0.0,4,62
+2020-01,HYD-VDY,True,,0.0,1,62
+2020-01,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,20.0,5,93
+2020-01,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,19.96779388,4,62
+2020-01,IXG-MYQ,True,,0.0,1,62
+2020-01,IXG-TIR,True,,0.0,1,62
+2020-01,MAA-MYQ,True,,0.0,1,124
+2020-01,MAA-SXV,True,,0.0,1,62
+2020-02,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,35.07462687,4,132
+2020-02,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,7.69230769,2,54
+2020-02,AMD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,60.24096386,2,58
+2020-02,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,7.69230769,2,54
+2020-02,AMD-JLG,True,,0.0,1,58
+2020-02,AMD-JSA,True,,0.0,2,50
+2020-02,AMD-PBD,True,,0.0,1,58
+2020-02,BDR-BLR,False,directed airline endpoint-count discrepancy exceeds 5%; both departure directions not represented,200.0,1,29
+2020-02,BLR-HYD,True,,3.37711069,6,58
+2020-02,BLR-VDY,True,,0.0,1,58
+2020-02,BOM-JLG,True,,0.0,1,42
+2020-02,BOM-KLH,True,,0.0,1,42
+2020-02,BOM-NDC,True,,0.0,1,58
+2020-02,CDP-HYD,True,,0.0,1,58
+2020-02,CDP-IXG,False,directed airline endpoint-count discrepancy exceeds 5%,7.40740741,1,54
+2020-02,CDP-MAA,True,,0.0,1,58
+2020-02,CDP-VGA,True,,0.0,1,58
+2020-02,GOI-HYD,True,,0.0,5,58
+2020-02,HYD-IDR,True,,0.0,2,116
+2020-02,HYD-IXG,True,,2.24719101,3,62
+2020-02,HYD-IXU,True,,0.0,2,58
+2020-02,HYD-NDC,True,,0.0,1,58
+2020-02,HYD-RJA,True,,0.0,2,116
+2020-02,HYD-TIR,True,,0.0,4,58
+2020-02,HYD-VDY,True,,0.0,1,58
+2020-02,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,20.0,5,87
+2020-02,HYD-VTZ,False,directed airline endpoint-count discrepancy exceeds 5%,20.06920415,4,58
+2020-02,IXG-MYQ,True,,0.0,1,58
+2020-02,IXG-TIR,True,,0.0,1,58
+2020-02,MAA-MYQ,True,,0.0,1,116
+2020-02,MAA-SXV,True,,0.0,1,58
+2021-11,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,3,90
+2021-11,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,14.28571429,2,60
+2021-11,AMD-IXK,True,,0.0,1,52
+2021-11,AMD-IXU,True,,0.0,1,60
+2021-11,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,2,60
+2021-11,AMD-JLG,False,directed airline endpoint-count discrepancy exceeds 5%,17.64705882,1,51
+2021-11,AMD-JSA,False,directed airline endpoint-count discrepancy exceeds 5%,14.28571429,1,56
+2021-11,AMD-PBD,True,,0.0,1,60
+2021-11,BLR-IXX,True,,0.0,1,60
+2021-11,BLR-VDY,True,,0.0,1,60
+2021-11,BOM-JLG,False,directed airline endpoint-count discrepancy exceeds 5%,17.64705882,1,51
+2021-11,BOM-KLH,True,,0.0,1,42
+2021-11,BOM-NDC,True,,0.0,1,60
+2021-11,CDP-HYD,True,,0.0,1,26
+2021-11,CDP-IXG,True,,0.0,1,60
+2021-11,CDP-MAA,True,,0.0,1,60
+2021-11,CDP-VGA,True,,0.0,1,60
+2021-11,GOI-HYD,False,directed airline endpoint-count discrepancy exceeds 5%,29.62962963,6,60
+2021-11,HYD-IDR,True,,0.0,2,60
+2021-11,HYD-IXG,True,,0.0,3,60
+2021-11,HYD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,2,30
+2021-11,HYD-MAA,False,directed airline endpoint-count discrepancy exceeds 5%,16.34712412,7,60
+2021-11,HYD-NDC,True,,0.0,1,60
+2021-11,HYD-RJA,True,,0.0,2,120
+2021-11,HYD-TIR,True,,1.34228188,5,120
+2021-11,HYD-VDY,True,,0.0,1,60
+2021-11,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,21.05263158,4,60
+2021-11,IXG-MYQ,True,,0.0,1,26
+2021-11,IXG-TIR,True,,0.0,2,34
+2021-11,MAA-MYQ,True,,0.0,2,60
+2021-11,MAA-SXV,True,,0.0,1,60
+2021-12,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,3,93
+2021-12,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,13.79310345,2,62
+2021-12,AMD-IXK,True,,0.0,1,54
+2021-12,AMD-IXU,True,,0.0,1,62
+2021-12,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,2,62
+2021-12,AMD-JLG,False,directed airline endpoint-count discrepancy exceeds 5%,16.98113208,1,53
+2021-12,AMD-JSA,False,directed airline endpoint-count discrepancy exceeds 5%,13.79310345,1,58
+2021-12,AMD-PBD,True,,0.0,1,62
+2021-12,BLR-IXX,True,,0.0,1,62
+2021-12,BLR-VDY,True,,0.0,1,62
+2021-12,BOM-JLG,False,directed airline endpoint-count discrepancy exceeds 5%,16.98113208,1,53
+2021-12,BOM-KLH,True,,0.0,1,44
+2021-12,BOM-NDC,True,,0.0,1,62
+2021-12,CDP-HYD,True,,0.0,1,28
+2021-12,CDP-IXG,True,,0.0,1,62
+2021-12,CDP-MAA,True,,0.0,1,62
+2021-12,CDP-VGA,True,,0.0,1,62
+2021-12,GOI-HYD,False,directed airline endpoint-count discrepancy exceeds 5%,30.37634409,6,62
+2021-12,HYD-IDR,True,,0.0,2,62
+2021-12,HYD-IXG,True,,0.0,3,62
+2021-12,HYD-IXU,False,directed airline endpoint-count discrepancy exceeds 5%,66.66666667,2,31
+2021-12,HYD-MAA,False,directed airline endpoint-count discrepancy exceeds 5%,13.76518219,7,62
+2021-12,HYD-NDC,True,,0.0,1,62
+2021-12,HYD-RJA,True,,0.0,2,124
+2021-12,HYD-TIR,True,,1.2345679,5,124
+2021-12,HYD-VDY,True,,0.0,1,62
+2021-12,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,21.18644068,4,62
+2021-12,IXG-MYQ,True,,0.0,1,28
+2021-12,IXG-TIR,True,,0.0,2,34
+2021-12,MAA-MYQ,True,,0.0,2,62
+2021-12,MAA-SXV,True,,0.0,1,62
+2022-01,AMD-IDR,False,directed airline endpoint-count discrepancy exceeds 5%,51.2,3,64
+2022-01,AMD-ISK,False,directed airline endpoint-count discrepancy exceeds 5%,10.90909091,2,62
+2022-01,AMD-IXK,True,,0.0,1,2
+2022-01,AMD-IXU,True,,0.0,1,62
+2022-01,AMD-IXY,False,directed airline endpoint-count discrepancy exceeds 5%,177.14285714,2,4
+2022-01,AMD-JLG,True,,0.0,1,62
+2022-01,AMD-JSA,True,,3.27868852,1,61
+2022-01,AMD-PBD,True,,0.0,1,62
+2022-01,BLR-IXX,True,,0.0,1,62
+2022-01,BLR-VDY,True,,0.0,1,62
+2022-01,BOM-JLG,False,directed airline endpoint-count discrepancy exceeds 5%,13.79310345,1,58
+2022-01,BOM-KLH,False,directed airline endpoint-count discrepancy exceeds 5%,29.31034483,1,58
+2022-01,BOM-NDC,False,directed airline endpoint-count discrepancy exceeds 5%,34.69387755,1,49
+2022-01,CDP-HYD,True,,0.0,1,58
+2022-01,CDP-IXG,True,,0.0,1,62
+2022-01,CDP-MAA,True,,0.0,1,62
+2022-01,CDP-VGA,True,,0.0,1,62
+2022-01,GOI-HYD,False,directed airline endpoint-count discrepancy exceeds 5%,31.62162162,6,62
+2022-01,HYD-IDR,True,,0.0,2,62
+2022-01,HYD-IXG,True,,0.0,3,62
+2022-01,HYD-IXU,True,,3.27868852,2,60
+2022-01,HYD-MAA,True,,1.71591992,7,120
+2022-01,HYD-NDC,True,,0.0,1,62
+2022-01,HYD-RJA,True,,0.0,2,124
+2022-01,HYD-TIR,True,,1.47710487,5,124
+2022-01,HYD-VDY,True,,0.0,1,62
+2022-01,HYD-VGA,False,directed airline endpoint-count discrepancy exceeds 5%,21.4084507,4,62
+2022-01,IXG-MYQ,True,,0.0,1,58
+2022-01,IXG-TIR,True,,0.0,2,62
+2022-01,MAA-MYQ,True,,0.0,2,62
+2022-01,MAA-SXV,True,,0.0,1,62

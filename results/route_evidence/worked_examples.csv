@@ -1,0 +1,6 @@
+month,route,airline,scheduled_flights,route_flights,frequency_share_pct,brand_frequency_hhi,endpoint_difference_pct,source_scope,all_airline_route_passengers
+2019-11,MAA-SXV,TruJet,60,60,100.0,10000.0,0.0,TruJet regional extension,3281
+2019-11,CDP-MAA,TruJet,60,60,100.0,10000.0,0.0,TruJet regional extension,3191
+2023-11,BOM-DEL,Vistara,951,3191,29.8025697274,2815.08111825,1.88028831,top20 route sample,530408
+2023-11,BOM-DEL,Akasa Air,180,3191,5.6408649326,2815.08111825,1.88028831,top20 route sample,530408
+2026-06,DEL-PNQ,Akasa Air,120,1430,8.3916083916,2744.87750012,0.0,top20 route sample,233719

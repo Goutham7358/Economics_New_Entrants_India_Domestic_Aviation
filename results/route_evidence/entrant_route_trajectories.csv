@@ -1,0 +1,69 @@
+airline,route,observed_months,first_covered_month,last_covered_month,first_frequency_share_pct,last_frequency_share_pct,change_percentage_points,longest_consecutive_covered_months_with_service,interpretation
+Akasa Air,AMD-BOM,37,2022-11,2026-07,15.6826568266,2.8415300546,-12.84112677,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,AMD-DEL,31,2022-11,2026-07,9.2165898618,0.6814310051,-8.53515886,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-BOM,37,2022-11,2026-07,14.5445641528,10.8244815377,-3.72008262,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-CCU,26,2023-05,2026-07,5.8490566038,11.8460019743,5.99694537,12,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-DEL,36,2022-11,2026-07,3.7641154329,7.3052553112,3.54113988,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-HYD,20,2023-05,2026-03,15.9402241594,3.9483129935,-11.99191117,9,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-MAA,18,2022-11,2026-03,27.6497695853,0.6903353057,-26.95943428,12,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BLR-PNQ,35,2022-11,2026-07,22.641509434,21.2053571429,-1.43615229,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BOM-CCU,25,2023-11,2026-07,5.8823529412,14.2857142857,8.40336134,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BOM-DEL,37,2022-11,2026-07,1.9922688076,8.7482806052,6.7560118,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BOM-GOI,5,2023-03,2025-10,0.7889546351,2.5270758123,1.73812118,4,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BOM-HYD,5,2023-10,2024-02,0.5607476636,5.0877192982,4.52697163,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,BOM-MAA,37,2022-11,2026-07,4.8231511254,5.5755395683,0.75238844,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,CCU-DEL,10,2025-10,2026-07,1.6589250166,7.6923076923,6.03338268,10,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,DEL-GAU,3,2023-02,2025-03,0.9771986971,0.4672897196,-0.50990898,2,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,DEL-HYD,25,2023-05,2026-07,7.7319587629,5.4771315641,-2.2548272,10,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,DEL-PNQ,26,2023-10,2026-07,0.2375296912,8.3897158322,8.15218614,21,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Akasa Air,DEL-SXR,9,2023-11,2026-03,0.8826125331,9.0332805071,8.15066797,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-IDR,6,2019-04,2019-09,100.0,100.0,0.0,6,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-IXK,3,2021-11,2022-01,100.0,100.0,0.0,3,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-IXU,3,2021-11,2022-01,100.0,100.0,0.0,3,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-JLG,6,2019-10,2022-01,100.0,100.0,0.0,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-JSA,12,2019-04,2022-01,50.0,100.0,50.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,AMD-PBD,7,2019-11,2022-01,100.0,100.0,0.0,4,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BLR-HYD,3,2019-12,2020-02,3.5267349261,3.6272670419,0.10053212,3,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BLR-IXX,3,2021-11,2022-01,100.0,100.0,0.0,3,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BLR-VDY,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BOM-JLG,5,2019-10,2020-02,100.0,100.0,0.0,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BOM-KLH,7,2019-10,2021-12,100.0,100.0,0.0,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,BOM-NDC,13,2019-04,2021-12,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,CDP-HYD,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,CDP-IXG,3,2021-11,2022-01,100.0,100.0,0.0,3,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,CDP-MAA,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,CDP-VGA,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,GOI-HYD,11,2019-04,2020-02,9.7402597403,10.9433962264,1.20313649,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-IDR,8,2019-10,2022-01,8.064516129,33.3333333333,25.2688172,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-IXG,8,2019-10,2022-01,13.2530120482,33.3333333333,20.08032129,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-IXU,12,2019-04,2022-01,100.0,49.1803278689,-50.81967213,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-MAA,9,2019-04,2022-01,6.6666666667,11.4394661582,4.77279949,8,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-NDC,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-RJA,7,2019-11,2022-01,28.5714285714,28.5714285714,0.0,4,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-TIR,7,2019-11,2022-01,11.320754717,18.3161004431,6.99534573,4,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-VDY,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,HYD-VGA,6,2019-05,2019-10,20.0,18.5365853659,-1.46341463,6,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,IXG-MYQ,8,2019-10,2022-01,100.0,100.0,0.0,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,IXG-TIR,8,2019-10,2022-01,100.0,77.5,-22.5,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,MAA-MYQ,12,2019-04,2022-01,100.0,53.4482758621,-46.55172414,6,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+TruJet,MAA-SXV,14,2019-04,2022-01,100.0,100.0,0.0,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,AMD-BOM,22,2021-05,2024-02,5.4318788958,20.3935599284,14.96168103,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,AMD-DEL,43,2019-04,2024-02,18.2203389831,21.8661639962,3.64582501,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-BOM,37,2019-10,2024-02,4.2750929368,20.3720106289,16.09691769,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-CCU,10,2022-03,2023-03,1.2427506214,2.3764258555,1.13367523,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-DEL,43,2019-04,2024-02,18.0904522613,22.5836005497,4.49314829,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-HYD,9,2023-05,2024-02,13.5118306351,10.0,-3.51183064,6,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-MAA,17,2021-04,2023-03,6.0180541625,2.3255813953,-3.69247277,12,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BLR-PNQ,12,2022-11,2023-10,11.320754717,11.8971061093,0.57635139,12,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BOM-CCU,23,2019-10,2024-02,3.6540803898,17.6470588235,13.99297843,5,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BOM-DEL,43,2019-04,2024-02,20.0137315482,31.269139163,11.25540761,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BOM-GOI,33,2019-04,2024-02,1.6701461378,13.2478632479,11.57771711,13,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BOM-HYD,32,2019-10,2024-02,2.0161290323,22.0175438596,20.00141483,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,BOM-MAA,37,2019-10,2024-02,5.2071005917,13.6900078678,8.48290728,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,CCU-DEL,38,2019-04,2024-02,12.5874125874,21.7391304348,9.15171785,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,DEL-GAU,32,2019-04,2023-10,8.1081081081,13.0653266332,4.95721853,11,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,DEL-HYD,42,2019-04,2024-02,17.6586003924,20.8333333333,3.17473294,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,DEL-MAA,39,2019-04,2024-02,10.989010989,18.6046511628,7.61564017,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,DEL-PNQ,40,2019-04,2024-02,13.059984814,18.5361972951,5.47621248,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,DEL-SXR,37,2019-04,2024-02,13.7460650577,11.5583075335,-2.18775752,16,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.
+Vistara,GOI-HYD,7,2019-04,2019-10,9.7402597403,8.3333333333,-1.40692641,7,Incomplete schedule observations; gaps break runs and do not establish exit. Different periods are not age-matched.

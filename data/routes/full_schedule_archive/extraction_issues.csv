@@ -1,0 +1,104 @@
+file,page,station,problem,text,cells
+AirIndia_ws17.pdf,17,VARANASI,invalid frequency,18 AI 0405 A319 DEL 16:50 01-Feb-18 24-Mar-18,18 | AI 0405 |  | A319 |  |  |  | DEL | 16:50 | 01-Feb-18 | 24-Mar-18
+AirIndia_ws17.pdf,17,VARANASI,invalid frequency,19 AI 0427 A320 DEL 18:40 29-Oct-17 24-Mar-18,19 | AI 0427 |  | A320 |  | DEL | 18:40 |  |  | 29-Oct-17 | 24-Mar-18
+AirIndia_ws17.pdf,17,VARANASI,invalid frequency,20 AI 0428 A320 DEL 19:20 29-Oct-17 24-Mar-18,20 | AI 0428 |  | A320 |  |  |  | DEL | 19:20 | 29-Oct-17 | 24-Mar-18
+Alliance Air_ss2018.pdf,2,Delhi,Unrecognised date: '#REF!',6 9I613 9I ATR-72 Daily IXJ 06:45 25-Mar-18 #REF!,6 | 9I613 | 9I | ATR-72 | Daily |  |  | IXJ | 06:45 | 25-Mar-18 | #REF!
+Alliance Air_ss2018.pdf,2,Delhi,Unrecognised date: '#REF!',11 9I806 9I ATR-72 7 KUU 09:45 25-Mar-18 #REF!,11 | 9I806 | 9I | ATR-72 | 7 | KUU | 09:45 |  |  | 25-Mar-18 | #REF!
+Alliance Air_ss2018.pdf,2,Delhi,Unrecognised date: '#REF! RCS',13 9I835 9I ATR-42 124 IXP 09:55 26-Mar-18 #REF! RCS,13 | 9I835 | 9I | ATR-42 | 124 |  |  | IXP | 09:55 | 26-Mar-18 | #REF! RCS
+Alliance Air_ss2018.pdf,3,Delhi,Unrecognised date: '#REF!',17 9I628 9I ATR-72 357 GWL 11:35 25-Mar-18 #REF!,17 | 9I628 | 9I | ATR-72 | 357 |  |  | GWL | 11:35 | 25-Mar-18 | #REF!
+Alliance Air_ss2018.pdf,3,Delhi,Unrecognised date: '#REF! RCS',22 9I836 9I ATR-42 124 IXP 13:30 26-Mar-18 #REF! RCS,22 | 9I836 | 9I | ATR-42 | 124 | IXP | 13:30 |  |  | 26-Mar-18 | #REF! RCS
+Alliance Air_ss2018.pdf,3,Delhi,Unrecognised date: '#REF!',23 9I614 9I ATR-72 Daily IXJ 14:25 25-Mar-18 #REF!,23 | 9I614 | 9I | ATR-72 | Daily | IXJ | 14:25 |  |  | 25-Mar-18 | #REF!
+Alliance Air_ss2018.pdf,3,Delhi,Unrecognised date: '#REF! RCS',30 9I627 9I ATR-72 357 GWL 17:15 25-Mar-18 #REF! RCS,30 | 9I627 | 9I | ATR-72 | 357 | GWL | 17:15 |  |  | 25-Mar-18 | #REF! RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',1 DN 191 DN B 1900 D 234567 ISK 06:50 RCS,1 | DN 191 | DN | B 1900 D | 234567 | ISK | 06:50 |  |  |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',2 DN 181 DN B 1900 D 23457 JLG 07:40 RCS,2 | DN 181 | DN | B 1900 D | 23457 |  |  | JLG | 07:40 |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',3 DN 181 DN B 1900 D 6 JLG 07:40 RCS,3 | DN 181 | DN | B 1900 D | 6 |  |  | JLG | 07:40 |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',4 DN 182 DN B 1900 D 237 JLG 12:45 RCS,4 | DN 182 | DN | B 1900 D | 237 | JLG | 12:45 |  |  |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',5 DN 182 DN B 1900 D 456 JLG 16:05 RCS,5 | DN 182 | DN | B 1900 D | 456 | JLG | 16:05 |  |  |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',6 DN 693 DN B 1900 D 237 KLH 13:15 RCS,6 | DN 693 | DN | B 1900 D | 237 |  |  | KLH | 13:15 |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',7 DN 694 DN B 1900 D 237 KLH 16:30 RCS,7 | DN 694 | DN | B 1900 D | 237 | KLH | 16:30 |  |  |  | RCS
+Deccan Charters_ss2018.pdf,1,Mumbai,Unrecognised date: '',8 DN 192 DN B 1900 D 234567 ISK 16:55 RCS,8 | DN 192 | DN | B 1900 D | 234567 |  |  | ISK | 16:55 |  | RCS
+GoAir_ws17.pdf,4,DELHI,ambiguous movement direction,20 G8 710 A320 Daily 07:30 29-Oct-17 24-Mar-18,20 | G8 710 |  | A320 | Daily |  |  |  | 07:30 | 29-Oct-17 | 24-Mar-18
+GoAir_ws17.pdf,4,DELHI,ambiguous movement direction,23 G8 205 A320 Daily 07:40 29-Oct-17 30-Nov-17,23 | G8 205 |  | A320 | Daily |  |  |  | 07:40 | 29-Oct-17 | 30-Nov-17
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,1 4H 101 Heritage B350 Daily Pithoragarh 7:55 27-Oct-19 09-Jan-20,1 | 4H 101 | Heritage | B350 | Daily |  |  | Pithoragarh | 7:55 | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,2 4H 102 Heritage B350 Daily Pithoragarh 10:00 27-Oct-19 09-Jan-20,2 | 4H 102 | Heritage | B350 | Daily | Pithoragarh | 10:00 |  |  | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,3 4H 103 Heritage B350 Daily Pithoragarh 10:25 27-Oct-19 09-Jan-20,3 | 4H 103 | Heritage | B350 | Daily |  |  | Pithoragarh | 10:25 | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,4 4H 106 Heritage B350 Daily Pithoragarh 15:10 27-Oct-19 09-Jan-20,4 | 4H 106 | Heritage | B350 | Daily | Pithoragarh | 15:10 |  |  | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Hindon,invalid endpoint,1 4H 104 Heritage B350 Daily Pithoragarh 12:30 27-Oct-19 28-Mar-20,1 | 4H 104 | Heritage | B350 | Daily | Pithoragarh | 12:30 |  |  | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Hindon,invalid endpoint,2 4H 105 Heritage B350 Daily Pithoragarh 13:00 27-Oct-19 28-Mar-20,2 | 4H 105 | Heritage | B350 | Daily |  |  | Pithoragarh | 13:00 | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Pithoragarh,invalid endpoint,4 4H 104 Heritage B350 Daily Hindon 11:30 27-Oct-19 28-Mar-20,4 | 4H 104 | Heritage | B350 | Daily |  |  | Hindon | 11:30 | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Pithoragarh,invalid endpoint,5 4H 105 Heritage B350 Daily Hindon 14:00 27-Oct-19 28-Mar-20,5 | 4H 105 | Heritage | B350 | Daily | Hindon | 14:00 |  |  | 27-Oct-19 | 28-Mar-20
+INDIGO_SS19.pdf,44,Kannur,Unrecognised date: '31-Mar',1 6E 7225 IND ATR 72 Daily HYD 00:10 31-Mar 26-Oct,1 | 6E 7225 | IND | ATR 72 | Daily | HYD | 00:10 |  |  | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,44,Kannur,Unrecognised date: '31-Mar',2 6E 7178 IND ATR 72 Daily HYD 00:30 31-Mar 26-Oct,2 | 6E 7178 | IND | ATR 72 | Daily |  |  | HYD | 00:30 | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,45,Kannur,Unrecognised date: '31-Mar',20 6E 7228 IND ATR 72 Daily BLR 21:35 31-Mar 26-Oct,20 | 6E 7228 | IND | ATR 72 | Daily | BLR | 21:35 |  |  | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,45,Kannur,Unrecognised date: '31-Mar',21 6E 7229 IND ATR 72 Daily BLR 21:55 31-Mar 26-Oct,21 | 6E 7229 | IND | ATR 72 | Daily |  |  | BLR | 21:55 | 31-Mar | 26-Oct
+Indigo_ws17.pdf,21,DELHI,invalid frequency,219 6E 0695 IND A320 MAA 11:25 29-Oct-17 24-Mar-18,219 | 6E 0695 | IND | A320 |  | MAA | 11:25 |  |  | 29-Oct-17 | 24-Mar-18
+Indigo_ws17.pdf,23,DELHI,invalid frequency,332 6E 0839 IND A320 BLR 15:15 29-Oct-17 24-Mar-18,332 | 6E 0839 | IND | A320 |  |  |  | BLR | 15:15 | 29-Oct-17 | 24-Mar-18
+Indigo_ws17.pdf,31,HYDERABAD,ambiguous movement direction,35 6E 0266 A320 Daily 7:25 29-Oct-17 24-Mar-18,35 | 6E 0266 |  | A320 | Daily |  | 7:25 |  |  | 29-Oct-17 | 24-Mar-18
+Indigo_ws17.pdf,31,HYDERABAD,ambiguous movement direction,40 6E 0266 A320 Daily 8:00 29-Oct-17 24-Mar-18,40 | 6E 0266 |  | A320 | Daily |  |  |  | 8:00 | 29-Oct-17 | 24-Mar-18
+Indigo_ws17.pdf,32,HYDERABAD,ambiguous movement direction,92 6E 6362 IND A320 7 13:10 29-Oct-17 18-Mar-18,92 | 6E 6362 | IND | A320 | 7 |  |  |  | 13:10 | 29-Oct-17 | 18-Mar-18
+Indigo_ws17.pdf,57,UDAIPUR,ambiguous movement direction,13 6E 0983 A320 Daily 20:35 29-Oct-17 30-Nov-17,13 | 6E 0983 |  | A320 | Daily |  | 20:35 |  |  | 29-Oct-17 | 30-Nov-17
+JetAirways_ws17.pdf,2,BANGALORE,invalid frequency,12 9W 818 B737-800 DEL 05:45 29-Oct-17 30-Oct-17,12 | 9W 818 |  | B737-800 |  |  |  | DEL | 05:45 | 29-Oct-17 | 30-Oct-17
+JetAirways_ws17.pdf,2,BANGALORE,invalid frequency,13 9W 818 B737-800 DEL 05:45 3-Dec-17 24-Mar-18,13 | 9W 818 |  | B737-800 |  |  |  | DEL | 05:45 | 3-Dec-17 | 24-Mar-18
+JetAirways_ws17.pdf,11,DELHI,invalid frequency,104 9W 818 B737-800 BLR 08:25 29-Oct-17 30-Oct-17,104 | 9W 818 |  | B737-800 |  | BLR | 08:25 |  |  | 29-Oct-17 | 30-Oct-17
+JetAirways_ws17.pdf,12,DELHI,invalid frequency,141 9W 818 B737-800 LKO 09:10 29-Oct-17 30-Oct-17,141 | 9W 818 |  | B737-800 |  |  |  | LKO | 09:10 | 29-Oct-17 | 30-Oct-17
+JetAirways_ws17.pdf,12,DELHI,invalid frequency,142 9W 818 B737-800 LKO 09:10 03-Dec-17 24-Mar-18,142 | 9W 818 |  | B737-800 |  |  |  | LKO | 09:10 | 03-Dec-17 | 24-Mar-18
+JetAirways_ws17.pdf,14,DELHI,invalid frequency,256 9W 607 B737-800 GAU 11:10 29-Oct-17 24-Mar-18,256 | 9W 607 |  | B737-800 |  |  |  | GAU | 11:10 | 29-Oct-17 | 24-Mar-18
+JetAirways_ws17.pdf,18,DELHI,invalid frequency,451 9W 657 B737-700 NAG 15:10 06-Nov-17 24-Mar-18,451 | 9W 657 |  | B737-700 |  |  |  | NAG | 15:10 | 06-Nov-17 | 24-Mar-18
+JetAirways_ws17.pdf,19,DELHI,invalid frequency,481 9W 657 B737-700 NAG 15:40 29-Oct-17 06-Nov-17,481 | 9W 657 |  | B737-700 |  |  |  | NAG | 15:40 | 29-Oct-17 | 06-Nov-17
+JetAirways_ws17.pdf,19,DELHI,invalid frequency,482 9W 608 B737-800 GAU 15:45 29-Oct-17 24-Mar-18,482 | 9W 608 |  | B737-800 |  | GAU | 15:45 |  |  | 29-Oct-17 | 24-Mar-18
+JetAirways_ws17.pdf,22,DELHI,invalid frequency,637 9W 793 B737-700 IDR 19:40 07-Nov-17 24-Mar-18,637 | 9W 793 |  | B737-700 |  |  |  | IDR | 19:40 | 07-Nov-17 | 24-Mar-18
+JetAirways_ws17.pdf,22,DELHI,invalid frequency,638 9W 793 B737-700 IDR 19:40 29-Oct-17 24-Mar-18,638 | 9W 793 |  | B737-700 |  |  |  | IDR | 19:40 | 29-Oct-17 | 24-Mar-18
+JetAirways_ws17.pdf,23,DELHI,invalid frequency,673 9W 793 ATR72 IDR 20:20 29-Oct-17 06-Nov-17,673 | 9W 793 |  | ATR72 |  |  |  | IDR | 20:20 | 29-Oct-17 | 06-Nov-17
+JetAirways_ws17.pdf,23,DELHI,invalid frequency,680 9W 827 B737-800 LKO 20:35 29-Oct-17 30-Oct-17,680 | 9W 827 |  | B737-800 |  | LKO | 20:35 |  |  | 29-Oct-17 | 30-Oct-17
+JetAirways_ws17.pdf,23,DELHI,invalid frequency,684 9W 827 B737-800 LKO 20:35 03-Dec-17 24-Mar-18,684 | 9W 827 |  | B737-800 |  | LKO | 20:35 |  |  | 03-Dec-17 | 24-Mar-18
+JetAirways_ws17.pdf,24,DELHI,invalid frequency,728 9W 827 B737-800 BLR 21:35 29-Oct-17 30-Oct-17,728 | 9W 827 |  | B737-800 |  |  |  | BLR | 21:35 | 29-Oct-17 | 30-Oct-17
+JetAirways_ws17.pdf,24,DELHI,invalid frequency,729 9W 827 B737-800 BLR 21:35 03-Dec-17 24-Mar-18,729 | 9W 827 |  | B737-800 |  |  |  | BLR | 21:35 | 03-Dec-17 | 24-Mar-18
+JetAirways_ws17.pdf,24,DELHI,invalid frequency,738 9W 2238 ATR72 LKO 22:10 29-Oct-17 24-Nov-17,738 | 9W 2238 |  | ATR72 |  | LKO | 22:10 |  |  | 29-Oct-17 | 24-Nov-17
+JetAirways_ws17.pdf,25,GUWAHATI,invalid frequency,10 9W 608 B737-800 DEL 12:55 29-Oct-17 24-Mar-18,10 | 9W 608 |  | B737-800 |  |  |  | DEL | 12:55 | 29-Oct-17 | 24-Mar-18
+JetAirways_ws17.pdf,26,HYDERABAD,ambiguous movement direction,37 9W 768 B737-800 Daily 22:45 29-Oct-17 18-Nov-17,37 | 9W 768 |  | B737-800 | Daily |  | 22:45 |  |  | 29-Oct-17 | 18-Nov-17
+JetAirways_ws17.pdf,26,HYDERABAD,ambiguous movement direction,38 9W 768 B737-800 Daily 22:45 29-Nov-17 24-Mar-18,38 | 9W 768 |  | B737-800 | Daily |  | 22:45 |  |  | 29-Nov-17 | 24-Mar-18
+JetAirways_ws17.pdf,26,HYDERABAD,ambiguous movement direction,39 9W 768 B737-800 Daily 23:10 19-Nov-17 28-Nov-17,39 | 9W 768 |  | B737-800 | Daily |  | 23:10 |  |  | 19-Nov-17 | 28-Nov-17
+JetAirways_ws17.pdf,35,MUMBAI,ambiguous movement direction,89 9W 489 B737-800 7 09:55 29-Oct-17 24-Mar-18,89 | 9W 489 |  | B737-800 | 7 |  |  |  | 09:55 | 29-Oct-17 | 24-Mar-18
+JetLite_ws17.pdf,1,BHOPAL,invalid frequency,3 S2 4927 JTL B737-800 DEL 20:40 3-Dec-17 24-Mar-18,3 | S2 4927 | JTL | B737-800 |  | DEL | 20:40 |  |  | 3-Dec-17 | 24-Mar-18
+JetLite_ws17.pdf,2,DELHI,invalid frequency,11 S2 4927 JTL B737-800 BHO 19:05 21-Feb-18 21-Mar-18,11 | S2 4927 | JTL | B737-800 |  |  |  | BHO | 19:05 | 21-Feb-18 | 21-Mar-18
+JetLite_ws17.pdf,2,GUWAHATI,invalid frequency,1 S2 4494 JTL B737-800 CCU 07:50 29-Oct-17 5-Nov-17,1 | S2 4494 | JTL | B737-800 |  | CCU | 07:50 |  |  | 29-Oct-17 | 5-Nov-17
+JetLite_ws17.pdf,2,GUWAHATI,invalid frequency,2 S2 4494 JTL B737-800 CCU 07:50 3-Dec-17 24-Mar-18,2 | S2 4494 | JTL | B737-800 |  | CCU | 07:50 |  |  | 3-Dec-17 | 24-Mar-18
+JetLite_ws17.pdf,2,GUWAHATI,invalid frequency,3 S2 4662 JTL B737-800 CCU 08:25 29-Oct-17 5-Nov-17,3 | S2 4662 | JTL | B737-800 |  |  |  | CCU | 08:25 | 29-Oct-17 | 5-Nov-17
+JetLite_ws17.pdf,2,GUWAHATI,invalid frequency,4 S2 4662 JTL B737-800 CCU 08:25 3-Dec-17 24-Mar-18,4 | S2 4662 | JTL | B737-800 |  |  |  | CCU | 08:25 | 3-Dec-17 | 24-Mar-18
+JetLite_ws17.pdf,3,LUCKNOW,invalid frequency,13 S2 4771 JTL B737-800 CCU 17:00 3-Dec-17 24-Mar-18,13 | S2 4771 | JTL | B737-800 |  | CCU | 17:00 |  |  | 3-Dec-17 | 24-Mar-18
+JetLite_ws17.pdf,3,LUCKNOW,invalid frequency,14 S2 4771 JTL B737-800 DEL 17:30 3-Dec-17 24-Mar-18,14 | S2 4771 | JTL | B737-800 |  |  |  | DEL | 17:30 | 3-Dec-17 | 24-Mar-18
+PAWAN HANS_WS2019.pdf,1,Chandigarh,invalid frequency,1938 PH 101 PH Dauphin SA 365 N 123456 SLV 10:00 28-Oct-19 28-Mar-20,1938 | PH 101 | PH | Dauphin SA 365 | N 123456 |  |  | SLV | 10:00 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Chandigarh,invalid frequency,1989 PH 102 PH Dauphin SA 365 N 123456 SLV 13:45 28-Oct-19 27-Mar-20,1989 | PH 102 | PH | Dauphin SA 365 | N 123456 | SLV | 13:45 |  |  | 28-Oct-19 | 27-Mar-20
+PAWAN HANS_WS2019.pdf,1,Dharamshala,invalid frequency,4521 PH 101 PH Dauphin SA 365 N 234 SLV 11:45 29-Oct-19 26-Mar-20,4521 | PH 101 | PH | Dauphin SA 365 | N 234 | SLV | 11:45 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Dharamshala,invalid frequency,4522 PH 102 PH Dauphin SA 365 N 234 SLV 12:05 29-Oct-19 26-Mar-20,4522 | PH 102 | PH | Dauphin SA 365 | N 234 |  |  | SLV | 12:05 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Kullu,invalid frequency,7231 PH 101 PH Dauphin SA 365 N 156 SLV 11:40 28-Oct-19 28-Mar-20,7231 | PH 101 | PH | Dauphin SA 365 | N 156 | SLV | 11:40 |  |  | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Kullu,invalid frequency,7232 PH 102 PH Dauphin SA 365 N 156 SLV 12:00 28-Oct-19 28-Mar-20,7232 | PH 102 | PH | Dauphin SA 365 | N 156 |  |  | SLV | 12:00 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9204 PH 101 PH Dauphin SA 365 N 234 IXC 10:30 29-Oct-19 26-Mar-20,9204 | PH 101 | PH | Dauphin SA 365 | N 234 | IXC | 10:30 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9205 PH 101 PH Dauphin SA 365 N 156 IXC 10:30 28-Oct-19 28-Mar-20,9205 | PH 101 | PH | Dauphin SA 365 | N 156 | IXC | 10:30 |  |  | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9206 PH 101 PH Dauphin SA 365 N 234 DHM 10:50 29-Oct-19 26-Mar-20,9206 | PH 101 | PH | Dauphin SA 365 | N 234 |  |  | DHM | 10:50 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9207 PH 101 PH Dauphin SA 365 N 156 KUU 10:50 28-Oct-19 28-Mar-20,9207 | PH 101 | PH | Dauphin SA 365 | N 156 |  |  | KUU | 10:50 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9208 PH 102 PH Dauphin SA 365 N 156 KUU 12:55 28-Oct-19 23-Mar-20,9208 | PH 102 | PH | Dauphin SA 365 | N 156 | KUU | 12:55 |  |  | 28-Oct-19 | 23-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9209 PH 102 PH Dauphin SA 365 N 234 DHM 13:00 29-Oct-19 26-Mar-20,9209 | PH 102 | PH | Dauphin SA 365 | N 234 | DHM | 13:00 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9210 PH 102 PH Dauphin SA 365 N 234 IXC 13:15 29-Oct-19 26-Mar-20,9210 | PH 102 | PH | Dauphin SA 365 | N 234 |  |  | IXC | 13:15 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9211 PH 102 PH Dauphin SA 365 N 156 IXC 13:15 28-Oct-19 23-Mar-20,9211 | PH 102 | PH | Dauphin SA 365 | N 156 |  |  | IXC | 13:15 | 28-Oct-19 | 23-Mar-20
+SpiceJet_ss2018.pdf,11,Leh,ambiguous movement direction,2 SG992 SG B737-700 Daily DEL DEL 7:55 25-Mar-18 27-Oct-18,2 | SG992 | SG | B737-700 | Daily | DEL |  | DEL | 7:55 | 25-Mar-18 | 27-Oct-18
+SpiceJet_ws17.pdf,7,DELHI,ambiguous movement direction,62 SG2843 DHQ Daily 09:55 29-Oct-17 24-Mar-18,62 | SG2843 |  | DHQ | Daily |  |  |  | 09:55 | 29-Oct-17 | 24-Mar-18
+SpiceJet_ws17.pdf,8,DELHI,ambiguous movement direction,82 SG2844 DHQ Daily 12:50 29-Oct-17 23-Mar-18,82 | SG2844 |  | DHQ | Daily |  | 12:50 |  |  | 29-Oct-17 | 23-Mar-18
+SpiceJet_ws17.pdf,15,KOLKATA,ambiguous movement direction,25 SG243 B737-800 Daily 14:10 29-Oct-17 24-Mar-18,25 | SG243 |  | B737-800 | Daily |  |  |  | 14:10 | 29-Oct-17 | 24-Mar-18
+SpiceJet_ws17.pdf,15,KOLKATA,ambiguous movement direction,41 SG244 B737-800 Daily 18:55 29-Oct-17 24-Mar-18,41 | SG244 |  | B737-800 | Daily |  | 18:55 |  |  | 29-Oct-17 | 24-Mar-18
+Star Air_WS2019.pdf,1,Hubli,invalid endpoint,2 OG 114 OG ER4 6 Hindon 11:50 02-Nov-19 28-Mar-20,2 | OG 114 | OG | ER4 | 6 |  |  | Hindon | 11:50 | 02-Nov-19 | 28-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,4 OG 114 OG ER4 34 Hindon 13:05 30-Oct-19 26-Mar-20,4 | OG 114 | OG | ER4 | 34 |  |  | Hindon | 13:05 | 30-Oct-19 | 26-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,9 OG 115 OG ER4 6 Hindon 17:40 02-Nov-19 28-Mar-20,9 | OG 115 | OG | ER4 | 6 | Hindon | 17:40 |  |  | 02-Nov-19 | 28-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,11 OG 115 OG ER4 34 Hindon 18:50 30-Oct-19 26-Mar-20,11 | OG 115 | OG | ER4 | 34 | Hindon | 18:50 |  |  | 30-Oct-19 | 26-Mar-20
+Vistara_WS2018.pdf,2,Delhi,reversed validity,22 UK 601 UK A 320 3 IXL 7:00 31-Oct-18 26-Oct-18,22 | UK 601 | UK | A 320 | 3 |  |  | IXL | 7:00 | 31-Oct-18 | 26-Oct-18
+Air Asia_SS2020.pdf,17,Kochi,invalid frequency,11 I5 456 IAD A320 MAA 09:45 15-Apr-20 24-Oct-20,11 | I5 456 | IAD | A320 |  |  |  | MAA | 09:45 | 15-Apr-20 | 24-Oct-20
+Air Asia_SS2020.pdf,18,Kochi,Unrecognised date: '',18 I5 1624 IAD A320 134567 BLR 15:35,18 | I5 1624 | IAD | A320 | 134567 | BLR | 15:35 |  |  |  | 
+Heritage_SS202S.pdf,1,Dehradun,invalid endpoint,1 4H 101 Heritage B350 Daily Pithoragarh 09:30 30-Mar-20 09-Jul-20,1 | 4H 101 | Heritage | B350 | Daily |  |  | Pithoragarh | 09:30 | 30-Mar-20 | 09-Jul-20
+Heritage_SS202S.pdf,1,Dehradun,invalid endpoint,2 4H 102 Heritage B350 Daily Pithoragarh 11:30 29-Mar-20 09-Jul-20,2 | 4H 102 | Heritage | B350 | Daily | Pithoragarh | 11:30 |  |  | 29-Mar-20 | 09-Jul-20
+Heritage_SS202S.pdf,1,Dehradun,invalid endpoint,3 4H 103 Heritage B350 Daily Pithoragarh 11:45 29-Mar-20 09-Jul-20,3 | 4H 103 | Heritage | B350 | Daily |  |  | Pithoragarh | 11:45 | 29-Mar-20 | 09-Jul-20
+Heritage_SS202S.pdf,1,Dehradun,invalid endpoint,4 4H 106 Heritage B350 Daily Pithoragarh 16:40 29-Mar-20 08-Jul-20,4 | 4H 106 | Heritage | B350 | Daily | Pithoragarh | 16:40 |  |  | 29-Mar-20 | 08-Jul-20
+Alliance Air_SS2020.pdf,11,Nasik,invalid endpoint,4 9I 887 AAS ATR 72 7 Pune 10:00 29-Mar-20 24-Oct-20,4 | 9I 887 | AAS | ATR 72 | 7 | Pune | 10:00 |  |  | 29-Mar-20 | 24-Oct-20
+Indigo_SS2020.pdf,73,Mumbai,reversed validity,19 6E 5365 IND A320 7 COK 00:25 25-Oct-20 24-Oct-20,19 | 6E 5365 | IND | A320 | 7 |  |  | COK | 00:25 | 25-Oct-20 | 24-Oct-20
+da1bd9793ddab539_Indigo_WS2020.pdf,37,Kochi,invalid frequency,18 6E 536 IND A320 1.345.7 MAA 13:20 25/Oct/20 27/Mar/21,18 | 6E 536 | IND | A320 | 1.345.7 |  |  | MAA | 13:20 | 25/Oct/20 | 27/Mar/21
+da1bd9793ddab539_Indigo_WS2020.pdf,37,Kochi,invalid frequency,21 6E 536 IND A320 .2…6. MAA 13:45 25/Oct/20 27/Mar/21,21 | 6E 536 | IND | A320 | .2…6. |  |  | MAA | 13:45 | 25/Oct/20 | 27/Mar/21
+8a81afe7414ff59c_Star Air_SS2021.pdf,3,Hindon,ambiguous movement direction,4 SDG OG 115 EMB 1357 14:30 28-Mar-21 30-Oct-21,4 | OG 115 | SDG | EMB | 1357 |  |  |  | 14:30 | 28-Mar-21 | 30-Oct-21

@@ -1,0 +1,39 @@
+[
+  {
+    "airlines": [
+      "Jet Airways",
+      "JetLite"
+    ],
+    "last_included_date": "2019-04-17",
+    "source_url": "https://sansad.in/getFile/loksabhaquestions/annex/1712/AU1337.pdf?source=pqals",
+    "local_source": "airline_closures_Lok_Sabha_2023.pdf"
+  },
+  {
+    "airlines": [
+      "Go First / GoAir"
+    ],
+    "first_excluded_date": "2023-05-03",
+    "source_url": "https://sansad.in/getFile/loksabhaquestions/annex/1712/AU3471.pdf?source=pqals",
+    "local_source": "gofirst_suspension_Lok_Sabha_2023.pdf"
+  },
+  {
+    "airlines": [
+      "Vistara"
+    ],
+    "relabel_from": "2024-11-12",
+    "new_airline": "Air India",
+    "flight_number_rule": "UK nnn becomes AI 2nnn; preserve published dates, routes and weekdays",
+    "source_url": "https://www.airindia.com/in/en/newsroom/press-release/vistara-experience-post-merger.html",
+    "local_source": "air_india_vistara_flight_conversion_2024_verified_extract.md"
+  },
+  {
+    "airlines": [
+      "AirAsia India / AIX Connect"
+    ],
+    "merged_into": "Air India Express",
+    "date": "2024-10-01",
+    "source_url": "https://www.airindia.com/in/en/newsroom/press-release/air-india-express-aix-connect-merger.html",
+    "processing_note": "No I5 Summer 2024 observations enter the usable panel; Winter 2024 original already uses IX.",
+    "local_source": "air_india_express_aix_merger_2024_verified_extract.md"
+  }
+]

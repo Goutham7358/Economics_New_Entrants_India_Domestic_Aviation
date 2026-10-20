@@ -1,0 +1,126 @@
+                         MANAGERIAL ECONOMICS
+Course Overview
+This course introduces M.Tech students to the principles of managerial economics
+and their application in technology-driven business environments. It equips
+students with analytical tools to understand market structures, firm behaviour,
+pricing strategies, demand-supply dynamics, and decision-making under
+uncertainty.
+The course bridges engineering and business thinking, enabling students to
+evaluate the economic consequences of technical decisions, understand the
+competitive landscape of technology markets, and develop a foundation for
+entrepreneurship, product management, and technology leadership roles.
+Course Structure & Syllabus
+1. Foundations of Managerial Economics
+    ● Nature and scope of managerial economics; its relation to microeconomics
+       and decision science
+    ● Scarcity, choice, and opportunity cost in technology resource allocation
+    ● Marginal analysis and optimisation: the core decision-making framework
+    ● Economic profit vs. accounting profit; the role of economic reasoning in
+       engineering decisions
+    ● Time value of money: present value and future value basics
+    ● Case: Resource allocation decisions in a software product team
+
+2. Demand Analysis & Forecasting
+   ● Law of demand; demand functions and demand curves for technology
+       products
+   ● Determinants of demand: price, income, substitutes, complements, and
+       network effects
+   ● Price elasticity of demand: concept, measurement, and managerial
+       applications
+   ● Income elasticity and cross-price elasticity
+   ● Demand for digital goods: zero marginal cost, bundling, and versioning
+   ● Demand forecasting methods: qualitative (Delphi, expert opinion) and
+       quantitative (time series, regression)
+   ● Case: Estimating demand elasticity
+   ● Demand estimation using real datasets (industry/API data)
+   ● Machine learning approaches to forecasting (basic intro)
+
+3. Production & Cost Analysis
+    ● Production functions: short run vs. long run; total, average, and marginal
+        product
+    ● Law of diminishing marginal returns and its implications for scaling tech
+        teams
+    ● Isoquants and isocosts; optimal input combinations
+    ● Cost concepts: fixed, variable, total, average, and marginal costs
+    ● Economies of scale, economies of scope, and learning curve effects in
+        technology industries
+    ● Cost structure of software and AI firms: high fixed costs, near-zero marginal
+        costs
+    ● Break-even analysis and contribution margin
+   ● Case: Cost analysis of cloud vs. on-premise infrastructure deployment
+   ● Productivity analytics (TFP, efficiency frontier)
+   ● Cost optimization using operations research techniques
+   ● Capacity planning in cloud/AI systems
+
+4. Market Structures & Competitive Strategy
+   ● Overview of market structures: perfect competition, monopolistic competition,
+      oligopoly, monopoly
+   ● Profit maximisation under different market structures
+   ● Monopoly and market power: sources, welfare implications, and regulation
+   ● Monopolistic competition and product differentiation in technology markets
+   ● Oligopoly models: Cournot, Bertrand, and Stackelberg competition
+   ● Digital markets and platform economics: two-sided markets, network effects,
+      and winner-take-all dynamics
+   ● Antitrust and competition policy in the technology sector
+   ● Porter's Five Forces applied to technology industries
+   ● Case: Market structure analysis of cloud computing, ride-hailing, and search
+      engine markets
+5. Pricing Strategies in Technology Markets
+    ● Pricing objectives and the role of elasticity in pricing decisions
+    ● Cost-plus pricing, value-based pricing, and competitive pricing
+    ● Price discrimination: first, second, and third degree; implementation in digital
+       platforms
+    ● Freemium models, tiered pricing, and subscription economics
+    ● Dynamic pricing and algorithmic pricing: applications in e-commerce and
+       ride-sharing
+    ● Bundling strategies: pure bundling, mixed bundling, and tying
+    ● Penetration pricing vs. skimming pricing for new technology products
+    ● Transfer pricing and pricing in multi-division technology firms
+    ● Case: Pricing strategy design for an AI-as-a-service product
+
+6. Game Theory & Strategic Decision-Making
+   ● Introduction to game theory: players, strategies, payoffs, and Nash equilibrium
+   ● Prisoner's dilemma and its applications to technology competition (price wars,
+       patent races)
+   ● Dominant strategies and iterated elimination of dominated strategies
+   ● Sequential games and backward induction; first-mover and second-mover
+       advantages
+   ● Repeated games and cooperation: implications for strategic alliances and
+       open-source ecosystems
+   ● Mixed strategies and equilibrium
+   ● Bayesian games (incomplete information)
+   ● Mechanism design basics (auctions, incentives)
+   ● Applications in: ad auctions (Google Ads), spectrum auctions, and platform
+       competition
+7. Macroeconomics & the Business Environment
+   ● Key macroeconomic indicators: GDP, inflation, unemployment, and their
+      relevance to technology business planning
+   ● Business cycles and their effect on technology investment and hiring
+   ● Monetary policy and interest rates: impact on technology firm valuations and
+      capital costs
+   ● Fiscal policy, government spending on R&D, and industrial policy for
+      technology sectors
+   ● Foreign exchange rates and globalisation of technology supply chains
+   ● India's digital economy: key indicators, policy frameworks (Digital India, PLI
+      schemes), and growth drivers
+   ● Case: Macro-environment analysis for expanding a technology startup
+      internationally
+
+Core Textbooks
+1. Samuelson, W. F., & Marks, S. G. (2021). Managerial Economics (8th ed.).
+Wiley.
+2. Pindyck, R. S., & Rubinfeld, D. L. (2018). Microeconomics (9th ed.). Pearson.
+3. Salvatore, D. (2020). Managerial Economics in a Global Economy (9th ed.).
+Oxford University Press.
+4. Keat, P. G., Young, P. K. Y., & Erfle, S. E. (2013). Managerial Economics:
+Economic Tools for Today's Decision Makers (7th ed.). Pearson.
+5. Froeb, L. M., McCann, B. T., Ward, M. R., & Shor, M. (2018). Managerial
+Economics: A Problem-Solving Approach (5th ed.). Cengage Learning.
+
+
+Evaluation Scheme
+
+25% Assignment – First Assignment
+25% Mid – term Assignment
+50% - End sem (Term Paper)
+

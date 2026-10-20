@@ -1,0 +1,5 @@
+airline,financial_year,operating_income,profit_after_tax,operating_margin_percent,source,pdf_page,scope,net_profit_margin_percent
+Vistara,2023,12261.4,-1393.3,4.0,sources/vistara_icra_2024_08_14.pdf,4,"standalone company, domestic and international",-11.363302722364493450992545712561371
+Vistara,2024,15310.3,-581.1,14.6,sources/vistara_icra_2024_08_14.pdf,4,"standalone company, domestic and international",-3.7954840858768280177396915801780501
+Akasa Air,2025,4582.7,-1983.5,-23.0,sources/akasa_icra_2026_06_12.pdf,4,"consolidated company, domestic and international",-43.282344469417592249110786217731905
+Akasa Air,2026,6167.9,-2716.0,-25.6,sources/akasa_icra_2026_06_12.pdf,4,"consolidated company, domestic and international",-44.034436355972048833476547933656512

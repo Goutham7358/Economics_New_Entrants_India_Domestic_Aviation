@@ -1,0 +1,45 @@
+[
+  {
+    "filename": "DOM CITYPAIR DATA, NOVEMBER  2019 .xlsx",
+    "path": "sources/route_schedules/DOM CITYPAIR DATA, NOVEMBER  2019 .xlsx",
+    "month": "2019-11",
+    "sha256": "aa67249b78f235ef5227d2c4f5a5436379351278ca98fb1d58ebf0dbfeb3c5c8",
+    "source_url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM%20CITYPAIR%20DATA%2C%20NOVEMBER%20%202019%20.xlsx",
+    "checks": [
+      {
+        "route": "MAA-SXV",
+        "row": 221
+      },
+      {
+        "route": "CDP-MAA",
+        "row": 205
+      }
+    ]
+  },
+  {
+    "filename": "DOM CITYPAIR DATA, NOVEMBER 2023.xlsx",
+    "path": "sources/route_schedules/DOM CITYPAIR DATA, NOVEMBER 2023.xlsx",
+    "month": "2023-11",
+    "sha256": "76d213b3cbb442c0fcf864770f55fc3863cf1631c05532b37fa00f1cfdb57a4a",
+    "source_url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM%20CITYPAIR%20DATA%2C%20NOVEMBER%202023.xlsx",
+    "checks": [
+      {
+        "route": "BOM-DEL",
+        "row": 342
+      }
+    ]
+  },
+  {
+    "filename": "DOM CITYPAIR DATA, JUNE 2026.xlsx",
+    "path": "sources/route_schedules/DOM CITYPAIR DATA, JUNE 2026.xlsx",
+    "month": "2026-06",
+    "sha256": "23d316952927e39f1c731a39e8584aa320e1c845bd31fee149fc1154e4964579",
+    "source_url": "https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM%20CITYPAIR%20DATA%2C%20JUNE%202026.xlsx",
+    "checks": [
+      {
+        "route": "DEL-PNQ",
+        "row": 361
+      }
+    ]
+  }
+]

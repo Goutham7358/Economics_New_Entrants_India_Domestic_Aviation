@@ -1,0 +1,31 @@
+file,page,station,problem,text,cells
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,1 4H 101 Heritage B350 Daily Pithoragarh 7:55 27-Oct-19 09-Jan-20,1 | 4H 101 | Heritage | B350 | Daily |  |  | Pithoragarh | 7:55 | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,2 4H 102 Heritage B350 Daily Pithoragarh 10:00 27-Oct-19 09-Jan-20,2 | 4H 102 | Heritage | B350 | Daily | Pithoragarh | 10:00 |  |  | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,3 4H 103 Heritage B350 Daily Pithoragarh 10:25 27-Oct-19 09-Jan-20,3 | 4H 103 | Heritage | B350 | Daily |  |  | Pithoragarh | 10:25 | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Dehradun,invalid endpoint,4 4H 106 Heritage B350 Daily Pithoragarh 15:10 27-Oct-19 09-Jan-20,4 | 4H 106 | Heritage | B350 | Daily | Pithoragarh | 15:10 |  |  | 27-Oct-19 | 09-Jan-20
+Heritage_WS2019.pdf,1,Hindon,invalid endpoint,1 4H 104 Heritage B350 Daily Pithoragarh 12:30 27-Oct-19 28-Mar-20,1 | 4H 104 | Heritage | B350 | Daily | Pithoragarh | 12:30 |  |  | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Hindon,invalid endpoint,2 4H 105 Heritage B350 Daily Pithoragarh 13:00 27-Oct-19 28-Mar-20,2 | 4H 105 | Heritage | B350 | Daily |  |  | Pithoragarh | 13:00 | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Pithoragarh,invalid endpoint,4 4H 104 Heritage B350 Daily Hindon 11:30 27-Oct-19 28-Mar-20,4 | 4H 104 | Heritage | B350 | Daily |  |  | Hindon | 11:30 | 27-Oct-19 | 28-Mar-20
+Heritage_WS2019.pdf,1,Pithoragarh,invalid endpoint,5 4H 105 Heritage B350 Daily Hindon 14:00 27-Oct-19 28-Mar-20,5 | 4H 105 | Heritage | B350 | Daily | Hindon | 14:00 |  |  | 27-Oct-19 | 28-Mar-20
+INDIGO_SS19.pdf,44,Kannur,Unrecognised date: '31-Mar',1 6E 7225 IND ATR 72 Daily HYD 00:10 31-Mar 26-Oct,1 | 6E 7225 | IND | ATR 72 | Daily | HYD | 00:10 |  |  | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,44,Kannur,Unrecognised date: '31-Mar',2 6E 7178 IND ATR 72 Daily HYD 00:30 31-Mar 26-Oct,2 | 6E 7178 | IND | ATR 72 | Daily |  |  | HYD | 00:30 | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,45,Kannur,Unrecognised date: '31-Mar',20 6E 7228 IND ATR 72 Daily BLR 21:35 31-Mar 26-Oct,20 | 6E 7228 | IND | ATR 72 | Daily | BLR | 21:35 |  |  | 31-Mar | 26-Oct
+INDIGO_SS19.pdf,45,Kannur,Unrecognised date: '31-Mar',21 6E 7229 IND ATR 72 Daily BLR 21:55 31-Mar 26-Oct,21 | 6E 7229 | IND | ATR 72 | Daily |  |  | BLR | 21:55 | 31-Mar | 26-Oct
+PAWAN HANS_WS2019.pdf,1,Chandigarh,invalid frequency,1938 PH 101 PH Dauphin SA 365 N 123456 SLV 10:00 28-Oct-19 28-Mar-20,1938 | PH 101 | PH | Dauphin SA 365 | N 123456 |  |  | SLV | 10:00 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Chandigarh,invalid frequency,1989 PH 102 PH Dauphin SA 365 N 123456 SLV 13:45 28-Oct-19 27-Mar-20,1989 | PH 102 | PH | Dauphin SA 365 | N 123456 | SLV | 13:45 |  |  | 28-Oct-19 | 27-Mar-20
+PAWAN HANS_WS2019.pdf,1,Dharamshala,invalid frequency,4521 PH 101 PH Dauphin SA 365 N 234 SLV 11:45 29-Oct-19 26-Mar-20,4521 | PH 101 | PH | Dauphin SA 365 | N 234 | SLV | 11:45 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Dharamshala,invalid frequency,4522 PH 102 PH Dauphin SA 365 N 234 SLV 12:05 29-Oct-19 26-Mar-20,4522 | PH 102 | PH | Dauphin SA 365 | N 234 |  |  | SLV | 12:05 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Kullu,invalid frequency,7231 PH 101 PH Dauphin SA 365 N 156 SLV 11:40 28-Oct-19 28-Mar-20,7231 | PH 101 | PH | Dauphin SA 365 | N 156 | SLV | 11:40 |  |  | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Kullu,invalid frequency,7232 PH 102 PH Dauphin SA 365 N 156 SLV 12:00 28-Oct-19 28-Mar-20,7232 | PH 102 | PH | Dauphin SA 365 | N 156 |  |  | SLV | 12:00 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9204 PH 101 PH Dauphin SA 365 N 234 IXC 10:30 29-Oct-19 26-Mar-20,9204 | PH 101 | PH | Dauphin SA 365 | N 234 | IXC | 10:30 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9205 PH 101 PH Dauphin SA 365 N 156 IXC 10:30 28-Oct-19 28-Mar-20,9205 | PH 101 | PH | Dauphin SA 365 | N 156 | IXC | 10:30 |  |  | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9206 PH 101 PH Dauphin SA 365 N 234 DHM 10:50 29-Oct-19 26-Mar-20,9206 | PH 101 | PH | Dauphin SA 365 | N 234 |  |  | DHM | 10:50 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9207 PH 101 PH Dauphin SA 365 N 156 KUU 10:50 28-Oct-19 28-Mar-20,9207 | PH 101 | PH | Dauphin SA 365 | N 156 |  |  | KUU | 10:50 | 28-Oct-19 | 28-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9208 PH 102 PH Dauphin SA 365 N 156 KUU 12:55 28-Oct-19 23-Mar-20,9208 | PH 102 | PH | Dauphin SA 365 | N 156 | KUU | 12:55 |  |  | 28-Oct-19 | 23-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9209 PH 102 PH Dauphin SA 365 N 234 DHM 13:00 29-Oct-19 26-Mar-20,9209 | PH 102 | PH | Dauphin SA 365 | N 234 | DHM | 13:00 |  |  | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9210 PH 102 PH Dauphin SA 365 N 234 IXC 13:15 29-Oct-19 26-Mar-20,9210 | PH 102 | PH | Dauphin SA 365 | N 234 |  |  | IXC | 13:15 | 29-Oct-19 | 26-Mar-20
+PAWAN HANS_WS2019.pdf,1,Shimla,invalid frequency,9211 PH 102 PH Dauphin SA 365 N 156 IXC 13:15 28-Oct-19 23-Mar-20,9211 | PH 102 | PH | Dauphin SA 365 | N 156 |  |  | IXC | 13:15 | 28-Oct-19 | 23-Mar-20
+Star Air_WS2019.pdf,1,Hubli,invalid endpoint,2 OG 114 OG ER4 6 Hindon 11:50 02-Nov-19 28-Mar-20,2 | OG 114 | OG | ER4 | 6 |  |  | Hindon | 11:50 | 02-Nov-19 | 28-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,4 OG 114 OG ER4 34 Hindon 13:05 30-Oct-19 26-Mar-20,4 | OG 114 | OG | ER4 | 34 |  |  | Hindon | 13:05 | 30-Oct-19 | 26-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,9 OG 115 OG ER4 6 Hindon 17:40 02-Nov-19 28-Mar-20,9 | OG 115 | OG | ER4 | 6 | Hindon | 17:40 |  |  | 02-Nov-19 | 28-Mar-20
+Star Air_WS2019.pdf,2,Hubli,invalid endpoint,11 OG 115 OG ER4 34 Hindon 18:50 30-Oct-19 26-Mar-20,11 | OG 115 | OG | ER4 | 34 | Hindon | 18:50 |  |  | 30-Oct-19 | 26-Mar-20

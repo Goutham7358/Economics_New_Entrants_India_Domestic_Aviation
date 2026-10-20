@@ -1,0 +1,358 @@
+{
+  "cutoff": "2026-07",
+  "input_sha256": "30412b650b47b9d8ba50917365b29f120f2da458403533829d65fd11b64c09be",
+  "national_months_with_positive_traffic": 138,
+  "operating_year_comparisons": [
+    {
+      "airline": "Vistara",
+      "age_year": 1,
+      "first_month": "2015-01",
+      "last_month": "2015-12",
+      "observations": 12,
+      "airline_passengers": 1066723,
+      "all_airline_passengers": 80753743,
+      "rpk_thousand": 1092169.0,
+      "ask_thousand": 1664170.0,
+      "passenger_share_percent": 1.3209579647596026,
+      "load_factor_percent": 65.6284514202275
+    },
+    {
+      "airline": "Vistara",
+      "age_year": 3,
+      "first_month": "2017-01",
+      "last_month": "2017-12",
+      "observations": 12,
+      "airline_passengers": 4064022,
+      "all_airline_passengers": 112453075,
+      "rpk_thousand": 4613211.0,
+      "ask_thousand": 5448565.0,
+      "passenger_share_percent": 3.613971427637706,
+      "load_factor_percent": 84.6683668085083
+    },
+    {
+      "airline": "TruJet",
+      "age_year": 1,
+      "first_month": "2015-07",
+      "last_month": "2016-06",
+      "observations": 12,
+      "airline_passengers": 312784,
+      "all_airline_passengers": 89447326,
+      "rpk_thousand": 136439.0,
+      "ask_thousand": 170432.0,
+      "passenger_share_percent": 0.3496851320071882,
+      "load_factor_percent": 80.05480191513331
+    },
+    {
+      "airline": "TruJet",
+      "age_year": 3,
+      "first_month": "2017-07",
+      "last_month": "2018-06",
+      "observations": 12,
+      "airline_passengers": 495382,
+      "all_airline_passengers": 126586223,
+      "rpk_thousand": 188059.2,
+      "ask_thousand": 245554.2,
+      "passenger_share_percent": 0.3913395851932481,
+      "load_factor_percent": 76.58561735046682
+    },
+    {
+      "airline": "Akasa Air",
+      "age_year": 1,
+      "first_month": "2022-08",
+      "last_month": "2023-07",
+      "observations": 12,
+      "airline_passengers": 4297923,
+      "all_airline_passengers": 144479405,
+      "rpk_thousand": 3654517.15,
+      "ask_thousand": 4315200.503,
+      "passenger_share_percent": 2.974765157705349,
+      "load_factor_percent": 84.68939386383826
+    },
+    {
+      "airline": "Akasa Air",
+      "age_year": 3,
+      "first_month": "2024-08",
+      "last_month": "2025-07",
+      "observations": 12,
+      "airline_passengers": 8080222,
+      "all_airline_passengers": 166933546,
+      "rpk_thousand": 9538344.968,
+      "ask_thousand": 10480585.733,
+      "passenger_share_percent": 4.840382411813142,
+      "load_factor_percent": 91.00965548105593
+    }
+  ],
+  "airline_summary": [
+    {
+      "airline": "Vistara",
+      "first_positive_month": "2015-01",
+      "last_positive_month_by_cutoff": "2024-11",
+      "positive_passenger_months": 118,
+      "inclusive_calendar_span_months": 119,
+      "outcome": "merged",
+      "followup_ends_at_cutoff": false,
+      "year1_share_percent": 1.3209579647596026,
+      "year3_share_percent": 3.613971427637706,
+      "share_change_percentage_points": 2.293013462878103,
+      "share_growth_percent": 173.58716356242286,
+      "passenger_growth_year1_to_year3_percent": 280.98194189119386,
+      "ask_growth_year1_to_year3_percent": 227.40435171887486,
+      "year1_load_factor_percent": 65.6284514202275,
+      "year3_load_factor_percent": 84.6683668085083,
+      "load_factor_change_percentage_points": 19.039915388280793,
+      "share_threshold_percent": 5.0,
+      "months_at_or_above_threshold": 62,
+      "longest_consecutive_months_at_or_above_threshold": 41,
+      "longest_run_start": "2021-06",
+      "longest_run_end": "2024-10"
+    },
+    {
+      "airline": "TruJet",
+      "first_positive_month": "2015-07",
+      "last_positive_month_by_cutoff": "2022-02",
+      "positive_passenger_months": 79,
+      "inclusive_calendar_span_months": 80,
+      "outcome": "ceased operations",
+      "followup_ends_at_cutoff": false,
+      "year1_share_percent": 0.3496851320071882,
+      "year3_share_percent": 0.3913395851932481,
+      "share_change_percentage_points": 0.041654453186059856,
+      "share_growth_percent": 11.911988635880462,
+      "passenger_growth_year1_to_year3_percent": 58.378305795692874,
+      "ask_growth_year1_to_year3_percent": 44.07752065339842,
+      "year1_load_factor_percent": 80.05480191513331,
+      "year3_load_factor_percent": 76.58561735046682,
+      "load_factor_change_percentage_points": -3.4691845646664867,
+      "share_threshold_percent": 5.0,
+      "months_at_or_above_threshold": 0,
+      "longest_consecutive_months_at_or_above_threshold": 0,
+      "longest_run_start": "",
+      "longest_run_end": ""
+    },
+    {
+      "airline": "Akasa Air",
+      "first_positive_month": "2022-08",
+      "last_positive_month_by_cutoff": "2026-07",
+      "positive_passenger_months": 48,
+      "inclusive_calendar_span_months": 48,
+      "outcome": "operating at cutoff",
+      "followup_ends_at_cutoff": true,
+      "year1_share_percent": 2.974765157705349,
+      "year3_share_percent": 4.840382411813142,
+      "share_change_percentage_points": 1.8656172541077924,
+      "share_growth_percent": 62.71477428311946,
+      "passenger_growth_year1_to_year3_percent": 88.00294933157248,
+      "ask_growth_year1_to_year3_percent": 142.8759851532674,
+      "year1_load_factor_percent": 84.68939386383826,
+      "year3_load_factor_percent": 91.00965548105593,
+      "load_factor_change_percentage_points": 6.32026161721766,
+      "share_threshold_percent": 5.0,
+      "months_at_or_above_threshold": 13,
+      "longest_consecutive_months_at_or_above_threshold": 6,
+      "longest_run_start": "2025-05",
+      "longest_run_end": "2025-10"
+    }
+  ],
+  "financial_years": [
+    {
+      "airline": "Vistara",
+      "financial_year": 2023,
+      "operating_income": "12261.4",
+      "profit_after_tax": "-1393.3",
+      "operating_margin_percent": "4.0",
+      "source": "sources/vistara_icra_2024_08_14.pdf",
+      "pdf_page": 4,
+      "scope": "standalone company, domestic and international",
+      "net_profit_margin_percent": -11.363302722364493
+    },
+    {
+      "airline": "Vistara",
+      "financial_year": 2024,
+      "operating_income": "15310.3",
+      "profit_after_tax": "-581.1",
+      "operating_margin_percent": "14.6",
+      "source": "sources/vistara_icra_2024_08_14.pdf",
+      "pdf_page": 4,
+      "scope": "standalone company, domestic and international",
+      "net_profit_margin_percent": -3.795484085876828
+    },
+    {
+      "airline": "Akasa Air",
+      "financial_year": 2025,
+      "operating_income": "4582.7",
+      "profit_after_tax": "-1983.5",
+      "operating_margin_percent": "-23.0",
+      "source": "sources/akasa_icra_2026_06_12.pdf",
+      "pdf_page": 4,
+      "scope": "consolidated company, domestic and international",
+      "net_profit_margin_percent": -43.282344469417595
+    },
+    {
+      "airline": "Akasa Air",
+      "financial_year": 2026,
+      "operating_income": "6167.9",
+      "profit_after_tax": "-2716.0",
+      "operating_margin_percent": "-25.6",
+      "source": "sources/akasa_icra_2026_06_12.pdf",
+      "pdf_page": 4,
+      "scope": "consolidated company, domestic and international",
+      "net_profit_margin_percent": -44.03443635597205
+    }
+  ],
+  "financial_changes": [
+    {
+      "airline": "Vistara",
+      "earlier_financial_year": 2023,
+      "later_financial_year": 2024,
+      "operating_income_growth_percent": 24.865839137455755,
+      "net_loss_magnitude_change_percent": -58.29326060432068,
+      "earlier_net_margin_percent": -11.363302722364493,
+      "later_net_margin_percent": -3.795484085876828,
+      "net_margin_change_percentage_points": 7.567818636487665,
+      "operating_margin_change_percentage_points": 10.6
+    },
+    {
+      "airline": "Akasa Air",
+      "earlier_financial_year": 2025,
+      "later_financial_year": 2026,
+      "operating_income_growth_percent": 34.59096166015668,
+      "net_loss_magnitude_change_percent": 36.9296697756491,
+      "earlier_net_margin_percent": -43.282344469417595,
+      "later_net_margin_percent": -44.03443635597205,
+      "net_margin_change_percentage_points": -0.7520918865544566,
+      "operating_margin_change_percentage_points": -2.6
+    }
+  ],
+  "regional_results": {
+    "routes_awarded": 52,
+    "routes_commenced": 42,
+    "routes_operational_march_2023": 0,
+    "source": "sources/cag_udan_audit_2023.pdf",
+    "pdf_page": 103,
+    "printed_page": 73,
+    "scope": "UDAN phases 1 to 3, audit route definitions",
+    "commencement_rate_percent": 80.76923076923077,
+    "operational_march2023_as_percent_of_ever_commenced": 0.0
+  },
+  "break_even_scenarios": [
+    {
+      "airline": "Vistara",
+      "base_financial_year": 2024,
+      "base_operating_income_crore": 15310.3,
+      "base_profit_after_tax_crore": -581.1,
+      "assumed_incremental_contribution_fraction": 1.0,
+      "extra_revenue_to_close_profit_gap_crore": 581.1,
+      "extra_revenue_percent_of_base": 3.795484085876828,
+      "scenario_total_revenue_crore": 15891.4,
+      "interpretation": "Illustrative accounting profit-gap exercise: the chosen fraction of additional revenue contributes to profit; tax and all other profit items remain unchanged. Not an estimated historical cost structure or cash runway."
+    },
+    {
+      "airline": "Vistara",
+      "base_financial_year": 2024,
+      "base_operating_income_crore": 15310.3,
+      "base_profit_after_tax_crore": -581.1,
+      "assumed_incremental_contribution_fraction": 0.5,
+      "extra_revenue_to_close_profit_gap_crore": 1162.2,
+      "extra_revenue_percent_of_base": 7.590968171753656,
+      "scenario_total_revenue_crore": 16472.5,
+      "interpretation": "Illustrative accounting profit-gap exercise: the chosen fraction of additional revenue contributes to profit; tax and all other profit items remain unchanged. Not an estimated historical cost structure or cash runway."
+    },
+    {
+      "airline": "Akasa Air",
+      "base_financial_year": 2026,
+      "base_operating_income_crore": 6167.9,
+      "base_profit_after_tax_crore": -2716.0,
+      "assumed_incremental_contribution_fraction": 1.0,
+      "extra_revenue_to_close_profit_gap_crore": 2716.0,
+      "extra_revenue_percent_of_base": 44.03443635597205,
+      "scenario_total_revenue_crore": 8883.9,
+      "interpretation": "Illustrative accounting profit-gap exercise: the chosen fraction of additional revenue contributes to profit; tax and all other profit items remain unchanged. Not an estimated historical cost structure or cash runway."
+    },
+    {
+      "airline": "Akasa Air",
+      "base_financial_year": 2026,
+      "base_operating_income_crore": 6167.9,
+      "base_profit_after_tax_crore": -2716.0,
+      "assumed_incremental_contribution_fraction": 0.5,
+      "extra_revenue_to_close_profit_gap_crore": 5432.0,
+      "extra_revenue_percent_of_base": 88.0688727119441,
+      "scenario_total_revenue_crore": 11599.9,
+      "interpretation": "Illustrative accounting profit-gap exercise: the chosen fraction of additional revenue contributes to profit; tax and all other profit items remain unchanged. Not an estimated historical cost structure or cash runway."
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "H1",
+      "hypothesis": "TruJet supplied at least half of scheduled frequencies on more than half its covered routes in November 2019.",
+      "month": "2019-11",
+      "routes_in_trujet_filing": 30,
+      "routes_passing_screen": 22,
+      "routes_with_trujet_share_at_least_50_percent": 17,
+      "routes_with_only_trujet_in_recovered_schedules": 14,
+      "supported_in_covered_sample": true,
+      "qualification": "Recovered schedule frequencies on 22 screened routes out of 30 in the filing; no passenger-share or actual-monopoly claim."
+    },
+    {
+      "id": "H2",
+      "hypothesis": "Revenue growth was accompanied by an improvement in net profit margin.",
+      "comparison": "Among the two airlines with comparable financial pairs, check whether positive revenue growth coincides with a positive margin change.",
+      "results": [
+        {
+          "airline": "Vistara",
+          "revenue_growth_percent": 24.865839137455755,
+          "margin_change_percentage_points": 7.567818636487665,
+          "supported_in_this_comparison": true
+        },
+        {
+          "airline": "Akasa Air",
+          "revenue_growth_percent": 34.59096166015668,
+          "margin_change_percentage_points": -0.7520918865544566,
+          "supported_in_this_comparison": false
+        }
+      ],
+      "qualification": "One annual change per airline, in different years; not an estimate of scale economies. TruJet lacks comparable financial inputs."
+    }
+  ],
+  "national_growth_background_check": {
+    "id": "H1",
+    "hypothesis": "Each entrant increased its national passenger share from its first to its third operating year.",
+    "comparison": "Check whether the year-3 minus year-1 passenger-share change is positive for each airline.",
+    "results": [
+      {
+        "airline": "Vistara",
+        "change_percentage_points": 2.293013462878103,
+        "supported_in_this_comparison": true
+      },
+      {
+        "airline": "TruJet",
+        "change_percentage_points": 0.041654453186059856,
+        "supported_in_this_comparison": true
+      },
+      {
+        "airline": "Akasa Air",
+        "change_percentage_points": 1.8656172541077924,
+        "supported_in_this_comparison": true
+      }
+    ],
+    "qualification": "Descriptive check on three selected cases; calendar conditions differ and the first year includes the partial launch month."
+  },
+  "route_evidence": {
+    "regional_route_months": 265,
+    "regional_unique_routes": 30,
+    "coverage_by_airline": {
+      "Akasa Air": {
+        "observations": 422,
+        "routes": 18
+      },
+      "TruJet": {
+        "observations": 265,
+        "routes": 30
+      },
+      "Vistara": {
+        "observations": 613,
+        "routes": 20
+      }
+    },
+    "details": "results/route_evidence/verification.json"
+  }
+}

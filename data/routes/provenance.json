@@ -1,0 +1,66 @@
+{
+  "observation_cutoff": "2026-07",
+  "copied_files": [
+    {
+      "local_file": "domestic_route_monthly.csv",
+      "original_project_path": "economics_project/new_airports_india/data/raw/domestic_route_monthly.csv",
+      "sha256": "400e1b215682ded55d74168a8ef00d72016991d5c3f34ac8ca46eb555049b98e"
+    },
+    {
+      "local_file": "top20_routes.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/top20_routes.csv",
+      "sha256": "928d089cea6436545ecfc26e15c98a35cb3bfa3ff9d69501183cc08fd1d4fcba"
+    },
+    {
+      "local_file": "top20_source_files.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/source_files_used.csv",
+      "sha256": "fe6d6905a81d401cc9981fb64b745c76e88b389b36a941850528b8e772b40173"
+    },
+    {
+      "local_file": "top20_original_verification.json",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/verification.json",
+      "sha256": "b42427263f5457880403cd24da0bed9b1e67915fbf1704f1c4c5fa2505e4c3f2"
+    },
+    {
+      "local_file": "top20_monthly_route_hhi.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/monthly_route_hhi.csv",
+      "filter": "month <= 2026-07",
+      "rows": 1114,
+      "sha256": "f257d227c2384cddbbbea620de137043742489f330f2c9624db64ea559eba889"
+    },
+    {
+      "local_file": "top20_monthly_airline_shares.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/monthly_carrier_route_shares.csv",
+      "filter": "month <= 2026-07",
+      "rows": 5519,
+      "sha256": "91664228daeddca76e89dbb5e537dfccdc128877ae4c89193dbc13dda7015452"
+    },
+    {
+      "local_file": "top20_monthly_coverage.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/monthly_coverage.csv",
+      "filter": "month <= 2026-07",
+      "rows": 2780,
+      "sha256": "58313a73a99b97ea2689588e7ca720d0808d265f86ea415d514859b7ee2d6496"
+    },
+    {
+      "local_file": "regional_schedule_rows.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/source_schedule_rows.csv",
+      "filter": "2019 summer/winter, 2021 winter",
+      "rows": 31048,
+      "sha256": "771fa8c79a218ee1b9fde0332f672e87fba860f59d3f3d45818b68dad6ad5859"
+    },
+    {
+      "local_file": "regional_extraction_issues.csv",
+      "original_project_path": "economics_project/indian_aviation_concentration/output/monthly_route_hhi/extraction_issues.csv",
+      "filter": "2019 summer/winter, 2021 winter",
+      "rows": 30,
+      "sha256": "ed2ee3350497251d072be44cd0952100c9c49f0f701f461e186b8f3dcfa2c81d"
+    }
+  ],
+  "regional_original_pdf_count": 34,
+  "citypair_input_commit": "16770ac59dae61ce7b80fd8bd67dd7f4cef280a6",
+  "citypair_upstream_url": "https://raw.githubusercontent.com/mkubicek/india-aviation-stats/16770ac59dae61ce7b80fd8bd67dd7f4cef280a6/data/processed/domestic_route_monthly.csv",
+  "top20_original_pdfs_stored": 92,
+  "citypair_passengers": "Actual airport-pair passenger totals, no airline split",
+  "schedule_shares": "Approved frequency by airline, not passenger shares"
+}

@@ -1,0 +1,7 @@
+# Preserve downloaded sources, CSV line endings and fingerprinted inputs.
+* -text
+*.py text eol=lf
+*.md text eol=lf
+data/** -text
+sources/** -text
+verification/** -text
